@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="Refactor" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="Refactor">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Google Drive/PROJECT/PLAY" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/code/QM" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -229,6 +231,7 @@
       <workItem from="1582730795653" duration="833000" />
       <workItem from="1582966241421" duration="1451000" />
       <workItem from="1585830232316" duration="2388000" />
+      <workItem from="1585840608034" duration="710000" />
     </task>
     <task id="LOCAL-00001" summary="Synchronize with Github">
       <created>1573919712467</created>
@@ -279,20 +282,35 @@
       <option name="project" value="LOCAL" />
       <updated>1585830763665</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Refactor">
+      <created>1585839401337</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585839401337</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Refactor">
+      <created>1585839408300</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585839408300</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -327,22 +345,22 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="678" y="281" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1582357632217" />
-    <state x="551" y="90" width="878" height="934" key="CommitChangelistDialog2" timestamp="1585839401297">
+    <state x="551" y="90" width="878" height="934" key="CommitChangelistDialog2" timestamp="1585840620971">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="551" y="90" width="878" height="934" key="CommitChangelistDialog2/70.27.1850.1053@70.27.1850.1053" timestamp="1585839401297" />
-    <state x="170" y="127" width="1650" height="853" key="DiffContextDialog" timestamp="1585839379524">
+    <state x="551" y="90" width="878" height="934" key="CommitChangelistDialog2/70.27.1850.1053@70.27.1850.1053" timestamp="1585840620971" />
+    <state x="170" y="127" width="1650" height="853" key="DiffContextDialog" timestamp="1585840581769">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="170" y="127" width="1650" height="853" key="DiffContextDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585839379524" />
+    <state x="170" y="127" width="1650" height="853" key="DiffContextDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585840581769" />
     <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1581674825617">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1581674825617" />
-    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1585830883326">
+    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1585839429686">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1850.1053@70.27.1850.1053" timestamp="1585830883326" />
+    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1850.1053@70.27.1850.1053" timestamp="1585839429686" />
     <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582966258390">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
