@@ -48,7 +48,7 @@ struct ZmqMsg: public zmq_msg_t
 protected:
    int               get(int property) {return zmq_msg_get(this,property);}
    bool              set(int property,int value) {return 0==zmq_msg_set(this,property,value);}
-   intptr_t          data() {return zmq_msg_data(this);}
+   intptr_t          data_method() {return zmq_msg_data(this);}
 public:
                      ZmqMsg() {zmq_msg_init(this);}
                      ZmqMsg(int size) {if(0!=zmq_msg_init_size(this,size)){Debug("Failed to init size msg: insufficient space");}}
@@ -85,7 +85,7 @@ ZmqMsg::ZmqMsg(string data,bool nullterminated)
 void ZmqMsg::getData(uchar &data[])
   {
    size_t size=size();
-   intptr_t src=data();
+   intptr_t src=data_method();
    ArrayResize(data,(int)size);
    ArrayFromPointer(data,src);
   }
@@ -95,7 +95,7 @@ void ZmqMsg::getData(uchar &data[])
 string ZmqMsg::getData()
   {
    size_t size=size();
-   intptr_t psz=data();
+   intptr_t psz=data_method();
    return StringFromUtf8Pointer(psz,(int)size);
   }
 //+------------------------------------------------------------------+
@@ -103,7 +103,7 @@ string ZmqMsg::getData()
 //+------------------------------------------------------------------+
 void ZmqMsg::setData(const uchar &data[])
   {
-   intptr_t dest=data();
+   intptr_t dest=data_method();
    ArrayToPointer(data,dest);
   }
 //+------------------------------------------------------------------+
