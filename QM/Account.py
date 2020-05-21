@@ -71,6 +71,7 @@ class AccountMT4(Account):
         else: return ""
 
     def find_signal_speed_to_broker(server_name):
+        '''
         out = subprocess.run(['ping', server_name], capture_output=True)
         str = out.stdout.decode("utf-8")
         start_ip = str.find('[')
@@ -80,7 +81,8 @@ class AccountMT4(Account):
         stop_maximum = str.find("Average")
         max = str[start_maximum+10:stop_maximum-4]
         max = int(max)
-        return max, ip_adress
+        '''
+        return 10, "37.30.24.223"
 
 
     def do_something(self):
