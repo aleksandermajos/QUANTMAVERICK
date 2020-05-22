@@ -1,12 +1,9 @@
 import zmq
 import zmq.asyncio
-from Chart import ChartOanda, ChartFXCM, ChartFIX, ChartFX
+from Chart import ChartFX
 from Strategy import StrategyFXTickArbitrage
 import time
 import pandas as pd
-
-
-
 import json
 
 

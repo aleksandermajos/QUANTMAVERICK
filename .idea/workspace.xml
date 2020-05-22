@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="Refactor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/DL/PYTORCH DARNN FX.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/DL/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI/DEEPLEARNING/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/DL/darnn_FX.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/MEL/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI/MACHINE LEARNING/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/ML/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI/METAHEURISTICS/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/NEV/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI/QUANTUM MACHINE LEARNING/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/QML/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI/REINFORCEMENT LEARNING/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/RL/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/Listener.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/Listener.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/TIMELINE_EURUSD.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/Utils/Data_Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/Utils/Data_Utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/Utils/Neural_Nets_Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/Utils/Neural_Nets_Utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/Utils/Plot_Utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/data_candles.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="QM PROJECT" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,22 +58,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
-  <component name="JupyterTrust" id="bba7df22-0bfd-4b69-ad06-fb3e014aa4de" />
+  <component name="JupyterTrust" id="bf6328ed-54a0-4c08-aec8-fd4dafd1947c" />
   <component name="ProjectId" id="1OjKlSeJQIor8jJnLEP1BYIZH5q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/code/QM" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/QM" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,21 +83,21 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\code\DL\RL" />
-      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\code\DL" />
-      <recent name="C:\Users\hapir\OneDrive\GIT\QUANTMAVERICK\code" />
-      <recent name="C:\Users\hapir\OneDrive\GIT\QUANTMAVERICK\code\DL" />
-      <recent name="C:\Users\hapir\OneDrive\GIT\QUANTMAVERICK\code\RLDL" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/code/QM" />
       <recent name="$PROJECT_DIR$/code/PLATFORMS" />
       <recent name="$PROJECT_DIR$/code/AI/DL" />
       <recent name="C:\Users\hapir\OneDrive\GIT\QUANTMAVERICK\code\DL" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM" />
+      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\Utils" />
+      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\AI\MACHINE LEARNING" />
+      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\AI\DEEPLEARNING" />
+      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\PLATFORMS\MT45\MQL5\Include\Zmq" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.MT45_OANDA_FXCM">
+  <component name="RunManager" selected="Python.Start">
     <configuration name="Breakout_solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="QUANTMAVERICK PROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MT45_OANDA_FXCM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Listener" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QUANTMAVERICK PROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,12 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/MT45_OANDA_FXCM.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QM/Listener.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PYTORCH DARNN FX" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QUANTMAVERICK PROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,12 +172,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/DL" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/DL/PYTORCH DARNN FX.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QM/Start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,33 +209,21 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.MT45_OANDA_FXCM" />
-      <item itemvalue="Python.PYTORCH DARNN FX" />
       <item itemvalue="Python.Breakout_solution" />
       <item itemvalue="Python.CartPole_Random" />
+      <item itemvalue="Python.Listener" />
+      <item itemvalue="Python.Start" />
       <item itemvalue="Python.dqn cartpole" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Start" />
+        <item itemvalue="Python.Listener" />
         <item itemvalue="Python.dqn cartpole" />
         <item itemvalue="Python.CartPole_Random" />
         <item itemvalue="Python.Breakout_solution" />
-        <item itemvalue="Python.PYTORCH DARNN FX" />
-        <item itemvalue="Python.MT45_OANDA_FXCM" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -232,6 +250,28 @@
       <workItem from="1582966241421" duration="1451000" />
       <workItem from="1585830232316" duration="2388000" />
       <workItem from="1585840608034" duration="710000" />
+      <workItem from="1586185919371" duration="520000" />
+      <workItem from="1586191157054" duration="154000" />
+      <workItem from="1586191317600" duration="492000" />
+      <workItem from="1586191818763" duration="750000" />
+      <workItem from="1586462845347" duration="770000" />
+      <workItem from="1586792818987" duration="642000" />
+      <workItem from="1587028591007" duration="846000" />
+      <workItem from="1587049481719" duration="526000" />
+      <workItem from="1587069831875" duration="3172000" />
+      <workItem from="1587109640637" duration="1119000" />
+      <workItem from="1587112651530" duration="166000" />
+      <workItem from="1587112863488" duration="1334000" />
+      <workItem from="1587117153401" duration="576000" />
+      <workItem from="1587136797646" duration="799000" />
+      <workItem from="1587137797229" duration="318000" />
+      <workItem from="1589406978651" duration="369000" />
+      <workItem from="1589443481954" duration="662000" />
+      <workItem from="1589526359934" duration="743000" />
+      <workItem from="1589542389993" duration="1125000" />
+      <workItem from="1590080219770" duration="61000" />
+      <workItem from="1590156374074" duration="560000" />
+      <workItem from="1590157367105" duration="1298000" />
     </task>
     <task id="LOCAL-00001" summary="Synchronize with Github">
       <created>1573919712467</created>
@@ -296,11 +336,25 @@
       <option name="project" value="LOCAL" />
       <updated>1585839408300</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="env">
+      <created>1586186003301</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586186003301</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ZmqMsg for MT5 Fixed">
+      <created>1587137991372</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587137991372</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -317,13 +371,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -334,36 +387,89 @@
     <MESSAGE value="enviroment" />
     <MESSAGE value="Data" />
     <MESSAGE value="Refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
+    <MESSAGE value="env" />
+    <MESSAGE value="ZmqMsg for MT5 Fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="ZmqMsg for MT5 Fixed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="712" y="358" width="555" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585830600326">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="666" y="327" width="555" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587137899318">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="666" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587137899318" />
     <state x="712" y="358" width="555" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1585830600326" />
     <state x="678" y="281" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582357632217">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="678" y="281" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1582357632217" />
-    <state x="551" y="90" width="878" height="934" key="CommitChangelistDialog2" timestamp="1585840620971">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="499" y="62" width="878" height="934" key="CommitChangelistDialog2" timestamp="1587137990623">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="499" y="62" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587137990623" />
     <state x="551" y="90" width="878" height="934" key="CommitChangelistDialog2/70.27.1850.1053@70.27.1850.1053" timestamp="1585840620971" />
     <state x="170" y="127" width="1650" height="853" key="DiffContextDialog" timestamp="1585840581769">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="170" y="127" width="1650" height="853" key="DiffContextDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585840581769" />
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1581674825617">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state width="2517" height="581" key="GridCell.Tab.0.bottom" timestamp="1590158308350">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state width="1527" height="413" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587137597105" />
+    <state width="2517" height="581" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1590158308350" />
+    <state width="2517" height="581" key="GridCell.Tab.0.center" timestamp="1590158308349">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1527" height="413" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587137597105" />
+    <state width="2517" height="581" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1590158308349" />
+    <state width="2517" height="581" key="GridCell.Tab.0.left" timestamp="1590158308349">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1527" height="413" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587137597105" />
+    <state width="2517" height="581" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1590158308349" />
+    <state width="2517" height="581" key="GridCell.Tab.0.right" timestamp="1590158308349">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1527" height="413" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587137597105" />
+    <state width="2517" height="581" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1590158308349" />
+    <state width="2517" height="581" key="GridCell.Tab.1.bottom" timestamp="1590158308350">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1527" height="413" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587137597105" />
+    <state width="2517" height="581" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1590158308350" />
+    <state width="2517" height="581" key="GridCell.Tab.1.center" timestamp="1590158308350">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1527" height="413" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587137597105" />
+    <state width="2517" height="581" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1590158308350" />
+    <state width="2517" height="581" key="GridCell.Tab.1.left" timestamp="1590158308350">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1527" height="413" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587137597105" />
+    <state width="2517" height="581" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1590158308350" />
+    <state width="2517" height="581" key="GridCell.Tab.1.right" timestamp="1590158308350">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1527" height="413" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587137597105" />
+    <state width="2517" height="581" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1590158308350" />
+    <state x="248" y="122" key="MergeDialog" timestamp="1590080270129">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="248" y="122" key="MergeDialog/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1590080270129" />
+    <state x="573" y="214" width="1022" height="737" key="SettingsEditor" timestamp="1590158323497">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="430" y="159" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586191498210" />
+    <state x="573" y="214" key="SettingsEditor/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1590158323497" />
     <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1581674825617" />
-    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1585839429686">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="540" y="259" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1587138002763">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="540" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587138002763" />
     <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1850.1053@70.27.1850.1053" timestamp="1585839429686" />
-    <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582966258390">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="959" y="592" width="482" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590080223658">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state x="719" y="440" width="482" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587028822284" />
+    <state x="959" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1590080223658" />
     <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.27.1850.1053@70.27.1850.1053" timestamp="1582966258390" />
     <state x="704" y="347" width="571" height="420" key="git4idea.merge.GitMergeDialog" timestamp="1585830829948">
       <screen x="70" y="27" width="1850" height="1053" />
@@ -458,6 +564,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/quantmaverick$CartPole_Random.coverage" NAME="CartPole_Random Coverage Results" MODIFIED="1575096689778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/DL/RL" />
+    <SUITE FILE_PATH="coverage/quantmaverick$Listener.coverage" NAME="Listener Coverage Results" MODIFIED="1587072236903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM" />
     <SUITE FILE_PATH="coverage/quantmaverick$MT45_OANDA_FXCM.coverage" NAME="MT45_OANDA_FXCM Coverage Results" MODIFIED="1575392642117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/quantmaverick$Start.coverage" NAME="Start Coverage Results" MODIFIED="1590158280029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM" />
   </component>
 </project>

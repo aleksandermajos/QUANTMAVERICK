@@ -1,6 +1,10 @@
 import torch
 from torch import nn
 import torch.nn.functional as F
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.metrics import mean_squared_error, mean_absolute_error
 
 class InputAttentionEncoder(nn.Module):
     def __init__(self, N, M, T, stateful=False):
@@ -134,3 +138,167 @@ class DARNN(nn.Module):
     def forward(self, X_history, y_history):
         out = self.decoder(self.encoder(X_history), y_history)
         return out
+
+def TrainDARNN(name,model,epochs,loss,opt,epoch_scheduler,data_train_loader,data_val_loader):
+    patience = 50
+    min_val_loss = 9999
+    counter = 0
+    for i in range(epochs):
+        mse_train = 0
+        for batch_x, batch_y_h, batch_y in data_train_loader:
+            batch_x = batch_x.cuda()
+            batch_y = batch_y.cuda()
+            batch_y_h = batch_y_h.cuda()
+            opt.zero_grad()
+            y_pred = model(batch_x, batch_y_h)
+            y_pred = y_pred.squeeze(1)
+            l = loss(y_pred, batch_y)
+            l.backward()
+            mse_train += l.item() * batch_x.shape[0]
+            opt.step()
+        epoch_scheduler.step()
+        with torch.no_grad():
+            mse_val = 0
+            preds = []
+            true = []
+            for batch_x, batch_y_h, batch_y in data_val_loader:
+                batch_x = batch_x.cuda()
+                batch_y = batch_y.cuda()
+                batch_y_h = batch_y_h.cuda()
+                output = model(batch_x, batch_y_h)
+                output = output.squeeze(1)
+                preds.append(output.detach().cpu().numpy())
+                true.append(batch_y.detach().cpu().numpy())
+                mse_val += loss(output, batch_y).item() * batch_x.shape[0]
+        preds = np.concatenate(preds)
+        true = np.concatenate(true)
+        print(i)
+
+        if min_val_loss > mse_val ** 0.5:
+            min_val_loss = mse_val ** 0.5
+            print("Saving...")
+            torch.save(model.state_dict(), name+".pt")
+            counter = 0
+        else:
+            counter += 1
+
+        if counter == patience:
+            break
+    return model
+
+class Predictor():
+    def __init__(self):
+        self.loss = nn.MSELoss()
+        self.model = DARNN(3, 64, 64, 16).cuda()
+        self.model.load_state_dict(torch.load("darnn_OANDAMT4LIVE_EURUSD240.pt"))
+
+        data = pd.read_csv("./Data/EURUSD240.csv")
+        to_remove = ["T1", "T2", 'V']
+        data = data[data.columns.difference(to_remove)]
+
+        batch_size = 16
+        timesteps = 16
+        train_length = data.shape[0]-116
+        val_length = 100
+        test_length = 16
+
+        X = np.zeros((len(data), timesteps, data.shape[1] - 1))
+        Y = np.zeros((len(data), timesteps, 1))
+
+        for i, name in enumerate(list(data.columns[:-1])):
+            for j in range(timesteps):
+                X[:, j, i] = data[name].shift(timesteps - j - 1).fillna(method="bfill")
+
+        for j in range(timesteps):
+            Y[:, j, 0] = data["O"].shift(timesteps - j - 1).fillna(method="bfill")
+
+        prediction_horizon = 1
+        target = data["O"].shift(-prediction_horizon).fillna(method="ffill").values
+
+        X = X[timesteps:]
+        Y = Y[timesteps:]
+        target = target[timesteps:]
+
+        X_train = X[:train_length]
+        X_val = X[train_length:train_length + val_length]
+        X_test = X[train_length + val_length - timesteps:train_length + val_length + test_length - timesteps]
+        Y_his_train = Y[:train_length]
+        Y_his_val = Y[train_length:train_length + val_length]
+        Y_his_test = Y[train_length + val_length - timesteps:train_length + val_length + test_length - timesteps]
+        target_train = target[:train_length]
+        target_val = target[train_length:train_length + val_length]
+        target_test = target[train_length + val_length - timesteps:train_length + val_length + test_length - timesteps]
+
+        X_train_max = X_train.max(axis=0)
+        X_train_min = X_train.min(axis=0)
+        Y_his_train_max = Y_his_train.max(axis=0)
+        Y_his_train_min = Y_his_train.min(axis=0)
+        self.target_train_max = target_train.max(axis=0)
+        self.target_train_min = target_train.min(axis=0)
+
+        X_train = (X_train - X_train_min) / (X_train_max - X_train_min)
+        X_val = (X_val - X_train_min) / (X_train_max - X_train_min)
+        X_test = (X_test - X_train_min) / (X_train_max - X_train_min)
+        Y_his_train = (Y_his_train - Y_his_train_min) / (Y_his_train_max - Y_his_train_min)
+        Y_his_val = (Y_his_val - Y_his_train_min) / (Y_his_train_max - Y_his_train_min)
+        Y_his_test = (Y_his_test - Y_his_train_min) / (Y_his_train_max - Y_his_train_min)
+        target_train = (target_train - self.target_train_min) / (self.target_train_max - self.target_train_min)
+        target_val = (target_val - self.target_train_min) / (self.target_train_max - self.target_train_min)
+        target_test = (target_test - self.target_train_min) / (self.target_train_max - self.target_train_min)
+
+        X_train_t = torch.Tensor(X_train)
+        X_val_t = torch.Tensor(X_val)
+        X_test_t = torch.Tensor(X_test)
+        Y_his_train_t = torch.Tensor(Y_his_train)
+        Y_his_val_t = torch.Tensor(Y_his_val)
+        Y_his_test_t = torch.Tensor(Y_his_test)
+        target_train_t = torch.Tensor(target_train)
+        target_val_t = torch.Tensor(target_val)
+        target_test_t = torch.Tensor(target_test)
+
+        from torch.utils.data import TensorDataset, DataLoader
+        data_train_loader = DataLoader(TensorDataset(X_train_t, Y_his_train_t, target_train_t), shuffle=True,
+                                       batch_size=batch_size)
+        data_val_loader = DataLoader(TensorDataset(X_val_t, Y_his_val_t, target_val_t), shuffle=False,
+                                     batch_size=batch_size)
+        self.data_test_loader = DataLoader(TensorDataset(X_test_t, Y_his_test_t, target_test_t), shuffle=False,
+                                      batch_size=batch_size)
+
+    def MakePredictions(self):
+        with torch.no_grad():
+            mse_val = 0
+            preds = []
+            true = []
+            for batch_x, batch_y_h, batch_y in self.data_test_loader:
+                batch_x = batch_x.cuda()
+                batch_y = batch_y.cuda()
+                batch_y_h = batch_y_h.cuda()
+                output = self.model(batch_x, batch_y_h)
+                preds.append(output.detach().cpu().numpy())
+                true.append(batch_y.detach().cpu().numpy())
+                mse_val += self.loss(output, batch_y).item() * batch_x.shape[0]
+        preds = np.concatenate(preds)
+        true = np.concatenate(true)
+
+        preds = preds * (self.target_train_max - self.target_train_min) + self.target_train_min
+        true = true * (self.target_train_max - self.target_train_min) + self.target_train_min
+
+        right = 0
+        wrong = 0
+        for i in range(len(preds) - 1):
+            if preds[i + 1][0] - preds[i][0] > 0 and true[i + 1] - true[i] < 0 or preds[i + 1][0] - preds[i][0] < 0 and \
+                    true[i + 1] - true[i] > 0:
+                wrong += 1
+            if preds[i + 1][0] - preds[i][0] < 0 and true[i + 1] - true[i] > 0 or preds[i + 1][0] - preds[i][0] > 0 and \
+                    true[
+                        i + 1] - true[i] < 0:
+                wrong += 1
+            if preds[i + 1][0] - preds[i][0] > 0 and true[i + 1] - true[i] > 0 or preds[i + 1][0] - preds[i][0] < 0 and \
+                    true[i + 1] - true[i] < 0:
+                right += 1
+        wrong = len(preds) - right
+        precentage_right = right / (right + wrong) * 100
+        print(precentage_right)
+
+        return preds[len(preds)-1]
+

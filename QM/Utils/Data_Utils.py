@@ -68,7 +68,7 @@ def csv_to_tensor(data):
 def get_history_oanda(accountID, token, start, stop, instrument, granularity, format):
 
     path = "./Data/"
-    client = oandapyV20.API(token, environment="practice")
+    client = oandapyV20.API(token, environment="live")
 
     params = {
         "from": start,
