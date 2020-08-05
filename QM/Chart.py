@@ -54,10 +54,10 @@ class ChartFX(Chart):
         data = self.req.recv()
         if len(data) > 2:
             data = data.decode('utf8')
-            f = open("data_candles.csv", "w")
+            f = open("../DATA/data_candles.csv", "w")
             f.write(data[:])
             f.close()
-            file = open("data_candles.csv")
+            file = open("../DATA/data_candles.csv")
             self.history = pd.read_csv(file)
         self.tick = ''
         self.req.send(b"ACCOUNTINFO")
