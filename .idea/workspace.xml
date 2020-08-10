@@ -20,14 +20,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="DATA DIR">
-      <change beforePath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/PKG-INFO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/SOURCES.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/dependency_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/dependency_links.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/top_level.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BIGAISCHOOL/tes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAISCHOOL/tes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/.idea/bigaischool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/.idea/rSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/DEEP LEARNING/AUDIO/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/DEEP LEARNING/BIGAISCHOOL.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/DEEP LEARNING/BIGAISCHOOL.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/DEEP LEARNING/BIGAISCHOOL.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/DEEP LEARNING/BIGAISCHOOL.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/DEEP LEARNING/COMPUTER VISION/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/DEEP LEARNING/GENERATIVE/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/DEEP LEARNING/NLP/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/DEEP LEARNING/PREELIMINARIES/PYTHON/DL PRELIMINARY INSTALL SOFTWARE_AND_HARDWARE.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/DEEP LEARNING/PREELIMINARIES/PYTHON/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/DEEP LEARNING/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/DEPLOYMENT/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/PYTHON/CALCULUS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/PYTHON/GRAPHS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/PYTHON/LINEAR ALGEBRA/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/PYTHON/NUMPY/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/PYTHON/PANDAS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/PYTHON/STATISTICS PROBABILISTICS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS/ML VIS PLOTLY CANDLE CHART.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS/ML VIS PLOTLY CANDLE CHART.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS/Utils/Plot_Utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/METAHEURISTICS LEARNING/GENETIC ALGORITHMS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/METAHEURISTICS LEARNING/META LEARNING/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/METAHEURISTICS LEARNING/NEUROEVOLUTION/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/METAHEURISTICS LEARNING/SIMULATED ANNEALLING/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/ANT COLONY/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/PARTICLE SWARM/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/STOCHASTIC DIFFIUSION/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/QUANTUM MACHINE LEARNING/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Agents/Trading_Agent/RandomAgent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Agents/Trading_Agent/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Agents/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Envs/Trading_Enviroment/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Envs/Trading_Enviroment/Trading_env.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Envs/Trading_Enviroment/Trading_env.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Envs/Trading_Enviroment/Trading_env.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Envs/Trading_Enviroment/Trading_env.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Envs/Trading_Enviroment/Trading_env.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Envs/Trading_Enviroment/Trading_env/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Envs/Trading_Enviroment/Trading_env/envs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Envs/Trading_Enviroment/Trading_env/envs/trading_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Envs/Trading_Enviroment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Envs/Trading_Enviroment/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/Envs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/RL OPENAI GYM.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/RL OWN AGENT PLAY.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/REINFORCEMENT LEARNING/PYTHON/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/_LANGUAGES_/.NET/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/_LANGUAGES_/CPP/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/_LANGUAGES_/CUDA/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/_LANGUAGES_/CUDA/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/_LANGUAGES_/CUDA/test.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/_LANGUAGES_/JAVA/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/_LANGUAGES_/JULIA/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/_LANGUAGES_/PYHTON/LANG PYTHON DEFAULTDICT.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/_LANGUAGES_/PYHTON/LANG PYTHON DEFAULTDICT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/_LANGUAGES_/PYHTON/LANG PYTHON QUICK.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/_LANGUAGES_/PYHTON/LANG PYTHON QUICK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/_LANGUAGES_/PYHTON/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/_LANGUAGES_/R/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/_LANGUAGES_/SCALA/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/bigaischool_macos.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/bigaischool_ubuntu.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/bigaischool_win10.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/setup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/QUANTMAVERICK PROJECT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/QUANTMAVERICK PROJECT.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +121,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="JupyterTrust" id="bf6328ed-54a0-4c08-aec8-fd4dafd1947c" />
   <component name="ProjectId" id="1OjKlSeJQIor8jJnLEP1BYIZH5q" />
@@ -66,7 +137,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/QM" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -74,22 +145,22 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM" />
-      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\Utils" />
-      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\AI\MACHINE LEARNING" />
-      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\AI\DEEPLEARNING" />
-      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\PLATFORMS\MT45\MQL5\Include\Zmq" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\DATA" />
       <recent name="$PROJECT_DIR$/code/QM" />
       <recent name="$PROJECT_DIR$/code/PLATFORMS" />
       <recent name="$PROJECT_DIR$/code/AI/DL" />
       <recent name="C:\Users\hapir\OneDrive\GIT\QUANTMAVERICK\code\DL" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick" />
+      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\AI" />
+      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM" />
+      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\Utils" />
+      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\AI\MACHINE LEARNING" />
     </key>
   </component>
   <component name="RunManager" selected="Python.MULTIGPUTEST">
@@ -287,7 +358,7 @@
       <workItem from="1596609471160" duration="1368000" />
       <workItem from="1596611962432" duration="2380000" />
       <workItem from="1596616237211" duration="612000" />
-      <workItem from="1597048571653" duration="974000" />
+      <workItem from="1597048571653" duration="2996000" />
     </task>
     <task id="LOCAL-00001" summary="Synchronize with Github">
       <created>1573919712467</created>
@@ -387,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596612380327</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="DATA DIR">
+      <created>1597049624001</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1597049624001</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,6 +509,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="DATA DIR" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1059" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597050647418">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1059" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597050647418" />
     <state width="2517" height="581" key="GridCell.Tab.0.bottom" timestamp="1596563657228">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -467,14 +549,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="248" y="122" key="MergeDialog/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1590080270129" />
-    <state x="573" y="214" width="1022" height="737" key="SettingsEditor" timestamp="1592324917703">
+    <state x="573" y="214" width="1022" height="737" key="SettingsEditor" timestamp="1597050291396">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="573" y="214" key="SettingsEditor/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1592324917703" />
-    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1596612423427">
+    <state x="573" y="214" key="SettingsEditor/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597050291396" />
+    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1597049641400">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1596612423427" />
+    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597049641400" />
     <state x="959" y="592" width="482" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596350917123">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

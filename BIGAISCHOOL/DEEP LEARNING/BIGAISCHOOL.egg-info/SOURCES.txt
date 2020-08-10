@@ -1,0 +1,7 @@
+README.md
+setup.py
+DEEP LEARNING/BIGAISCHOOL.egg-info/PKG-INFO
+DEEP LEARNING/BIGAISCHOOL.egg-info/SOURCES.txt
+DEEP LEARNING/BIGAISCHOOL.egg-info/dependency_links.txt
+DEEP LEARNING/BIGAISCHOOL.egg-info/top_level.txt
+DEEP LEARNING/TIME SERIES/__init__.py
