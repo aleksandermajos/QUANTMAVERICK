@@ -19,19 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="mt5 py native">
-      <change afterPath="$PROJECT_DIR$/DATA/TIMELINE_EURUSD.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA/data_candles.csv" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="DATA DIR">
+      <change beforePath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/dependency_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/dependency_links.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAISCHOOL/BIGAISCHOOL.egg-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIGAISCHOOL/tes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAISCHOOL/tes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/QUANTMAVERICK PROJECT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/QUANTMAVERICK PROJECT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/DEEPLEARNING/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/MACHINE LEARNING/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/METAHEURISTICS/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/QUANTUM MACHINE LEARNING/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/REINFORCEMENT LEARNING/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/Chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/Chart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/Utils/Data_Utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/Utils/Neural_Nets_Utils.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,18 +205,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Listener" />
+      <item itemvalue="Python.MULTIGPUTEST" />
       <item itemvalue="Python.Start" />
       <item itemvalue="Python.dqn cartpole" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.MULTIGPUTEST" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MULTIGPUTEST" />
-        <item itemvalue="Python.Start" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Listener" />
         <item itemvalue="Python.dqn cartpole" />
+        <item itemvalue="Python.Start" />
+        <item itemvalue="Python.MULTIGPUTEST" />
+        <item itemvalue="Python.Listener" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +285,9 @@
       <workItem from="1596536430259" duration="1290000" />
       <workItem from="1596547147972" duration="2776000" />
       <workItem from="1596609471160" duration="1368000" />
-      <workItem from="1596611962432" duration="389000" />
+      <workItem from="1596611962432" duration="2380000" />
+      <workItem from="1596616237211" duration="612000" />
+      <workItem from="1597048571653" duration="974000" />
     </task>
     <task id="LOCAL-00001" summary="Synchronize with Github">
       <created>1573919712467</created>
@@ -381,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592332158429</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="DATA DIR">
+      <created>1596612380327</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1596612380327</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +427,8 @@
     <MESSAGE value="ZmqMsg for MT5 Fixed" />
     <MESSAGE value="Refactor" />
     <MESSAGE value="mt5 py native" />
-    <option name="LAST_COMMIT_MESSAGE" value="mt5 py native" />
+    <MESSAGE value="DATA DIR" />
+    <option name="LAST_COMMIT_MESSAGE" value="DATA DIR" />
   </component>
   <component name="WindowStateProjectService">
     <state width="2517" height="581" key="GridCell.Tab.0.bottom" timestamp="1596563657228">
@@ -464,18 +471,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="573" y="214" key="SettingsEditor/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1592324917703" />
-    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1592332179110">
+    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1596612423427">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1592332179110" />
+    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1596612423427" />
     <state x="959" y="592" width="482" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596350917123">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="959" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1596350917123" />
-    <state x="993" y="601" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590158880795">
+    <state x="993" y="601" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596612412676">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="993" y="601" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1590158880795" />
+    <state x="993" y="601" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1596612412676" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
