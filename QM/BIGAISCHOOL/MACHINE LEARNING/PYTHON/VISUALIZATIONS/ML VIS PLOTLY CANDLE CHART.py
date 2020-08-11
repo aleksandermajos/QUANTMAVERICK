@@ -22,6 +22,7 @@ fig = go.Figure(data=[go.Candlestick(x=dates,
                        low=low_data, close=close_data)])
 
 fig.show()
+oko=7
 
 
 # In[4]:

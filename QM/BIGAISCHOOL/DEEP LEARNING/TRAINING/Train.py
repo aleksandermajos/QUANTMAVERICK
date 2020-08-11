@@ -1,20 +1,21 @@
 import torch
 from torch import nn
-from torch import Tensor
-from torch import optim
-import torch.nn.functional as F
+from sklearn.metrics import mean_squared_error, mean_absolute_error
+import numpy as np
+import sys, os
 
-def Train_DARNN(model):
+
+def Train_DARNN(model,data_prepared, epochs, model_save_name):
     opt = torch.optim.Adam(model.parameters(), lr=0.001)
     epoch_scheduler = torch.optim.lr_scheduler.StepLR(opt, 20, gamma=0.9)
-    epochs = 150
+    epochs = epochs
     loss = nn.MSELoss()
     patience = 15
     min_val_loss = 9999
     counter = 0
     for i in range(epochs):
         mse_train = 0
-        for batch_x, batch_y_h, batch_y in data_train_loader:
+        for batch_x, batch_y_h, batch_y in data_prepared['data_train_loader']:
             batch_x = batch_x.cuda()
             batch_y = batch_y.cuda()
             batch_y_h = batch_y_h.cuda()
@@ -30,7 +31,7 @@ def Train_DARNN(model):
             mse_val = 0
             preds = []
             true = []
-            for batch_x, batch_y_h, batch_y in data_val_loader:
+            for batch_x, batch_y_h, batch_y in data_prepared['data_val_loader']:
                 batch_x = batch_x.cuda()
                 batch_y = batch_y.cuda()
                 batch_y_h = batch_y_h.cuda()
@@ -45,17 +46,19 @@ def Train_DARNN(model):
         if min_val_loss > mse_val ** 0.5:
             min_val_loss = mse_val ** 0.5
             print("Saving...")
-            torch.save(model.state_dict(), "darnn_FX.pt")
+            file_dir = os.path.dirname(__file__)
+            path_to_save = file_dir+"\\TRAINED\\PREDICTORS\\"+model_save_name
+            torch.save(model.state_dict(), path_to_save)
             counter = 0
         else:
             counter += 1
 
         if counter == patience:
             break
-        print("Iter: ", i, "train: ", (mse_train / len(X_train_t)) ** 0.5, "val: ", (mse_val / len(X_val_t)) ** 0.5)
+        print("Iter: ", i, "train: ", (mse_train / len(data_prepared['X_train_t'])) ** 0.5, "val: ", (mse_val / len(data_prepared['X_val_t'])) ** 0.5)
         if (i % 10 == 0):
-            preds = preds * (target_train_max - target_train_min) + target_train_min
-            true = true * (target_train_max - target_train_min) + target_train_min
+            preds = preds * (data_prepared['target_train_max'] - data_prepared['target_train_min']) + data_prepared['target_train_min']
+            true = true * (data_prepared['target_train_max'] - data_prepared['target_train_min']) + data_prepared['target_train_min']
             mse = mean_squared_error(true, preds)
             mae = mean_absolute_error(true, preds)
             print("mse: ", mse, "mae: ", mae)

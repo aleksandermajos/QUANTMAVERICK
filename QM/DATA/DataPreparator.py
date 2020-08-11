@@ -17,14 +17,17 @@ class PyTorchDataPreparator():
         target_train_t, target_val_t, target_test_t = df_to_tensor(self.data, self.batch_size, self.time_steps, self.train_perc, self.val_perc, self.test_perc , self.target)
 
         data_train_loader = DataLoader(TensorDataset(X_train_t, y_his_train_t, target_train_t), shuffle=True,
-                                       batch_size=128)
-        data_val_loader = DataLoader(TensorDataset(X_val_t, y_his_val_t, target_val_t), shuffle=False, batch_size=128)
+                                       batch_size=self.batch_size)
+        data_val_loader = DataLoader(TensorDataset(X_val_t, y_his_val_t, target_val_t), shuffle=False, batch_size=self.batch_size)
         data_test_loader = DataLoader(TensorDataset(X_test_t, y_his_test_t, target_test_t), shuffle=False,
-                                      batch_size=128)
+                                      batch_size=self.batch_size)
 
-
-        return X_train,target_train_max,target_train_min, X_train_t, X_val_t, X_test_t, y_his_train_t, y_his_val_t, y_his_test_t, \
-target_train_t, target_val_t, target_test_t, data_train_loader, data_val_loader, data_test_loader
+        Results = {'X_train': X_train, 'target_train_max': target_train_max, 'target_train_min': target_train_min,
+                   'X_train_t': X_train_t,'X_val_t': X_val_t,'X_test_t': X_test_t,'y_his_train_t': y_his_train_t,
+                   'y_his_val_t': y_his_val_t,'y_his_test_t': y_his_test_t,'target_train_t': target_train_t,
+                   'target_val_t': target_val_t,'target_test_t': target_test_t,
+                   'data_train_loader': data_train_loader,'data_val_loader':data_val_loader,'data_test_loader':data_test_loader}
+        return Results
 
 
 
