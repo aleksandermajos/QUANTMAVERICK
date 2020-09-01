@@ -1,4 +1,4 @@
-from QM.DATA.Utils.Data_Utils_Preparator import df_to_tensor
+from QM.BIGDATALAKE.Utils.Data_Utils_Preparator import df_to_tensor
 from torch.utils.data import TensorDataset, DataLoader
 
 

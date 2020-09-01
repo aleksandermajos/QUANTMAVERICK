@@ -19,19 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="ADD AI TO QM">
-      <change afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/.ipynb_checkpoints/PYTORCH DARNN SINGLE PREDICTION-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/.ipynb_checkpoints/PYTORCH GAN MGPU-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/DARNN_EURUSD_H12.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TRAINING/TRAINED/PREDICTORS/DARNN_EURUSD_H12.pt" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="SAVE MODEL">
+      <change afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS/Visualize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/NOTEBOOKS/.ipynb_checkpoints/PYTORCH DARNN GPU-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/NOTEBOOKS/PYTORCH DARNN GPU.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/EXPERIMENT.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/EXPERIMENT.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/PYTORCH DARNN SINGLE PREDICTION.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/PYTORCH DARNN SINGLE PREDICTION.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/PYTORCH GAN MGPU.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/PYTORCH GAN MGPU.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/darnn_FX.pt" beforeDir="false" afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/darnn_FX.pt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TRAINING/Train.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TRAINING/Train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS/ML VIS PLOTLY CANDLE CHART.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS/ML VIS PLOTLY CANDLE CHART.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/DATA/DataPreparator.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/DATA/DataPreparator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/.ipynb_checkpoints/PYTORCH DARNN FX-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/.ipynb_checkpoints/PYTORCH DARNN SINGLE PREDICTION-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/.ipynb_checkpoints/PYTORCH GAN MGPU-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/EXPERIMENT.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TRAINING/TRAINED/PREDICTORS/DARNN_EURUSD_H12.pt" beforeDir="false" afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TRAINING/TRAINED/PREDICTORS/DARNN_EURUSD_H12.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS/ML VIS PLOTLY CANDLE CHART.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/NOTEBOOKS/ML VIS PLOTLY CANDLE CHART.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS/ML VIS PLOTLY CANDLE CHART.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS/Utils/Plot_Utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS/Utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/PYTORCH DARNN GPU.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,14 +88,14 @@
       <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\DATA" />
+      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\BIGAISCHOOL\NOTEBOOKS" />
       <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\BIGAISCHOOL\DEEP LEARNING\TIME SERIES" />
+      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\DATA" />
       <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\BIGAISCHOOL\DEEP LEARNING" />
       <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\BIGAISCHOOL" />
-      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ML VIS PLOTLY CANDLE CHART">
+  <component name="RunManager" selected="Python.PYTORCH DARNN GPU">
     <configuration name="DataGenerator (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QUANTMAVERICK PROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,28 +110,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QM/DATA/DataGenerator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DataGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="QUANTMAVERICK PROJECT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QM/DATA/Utils" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\hapir\PycharmProjects\quantmaverick\QM\DATA\DataGenerator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,20 +184,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PYTORCH DARNN GPU" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QUANTMAVERICK PROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/PYTORCH DARNN GPU.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.DataGenerator" />
       <item itemvalue="Python.DataGenerator (1)" />
       <item itemvalue="Python.EXPERIMENT" />
       <item itemvalue="Python.EXPERIMENT (1)" />
       <item itemvalue="Python.ML VIS PLOTLY CANDLE CHART" />
+      <item itemvalue="Python.PYTORCH DARNN GPU" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PYTORCH DARNN GPU" />
         <item itemvalue="Python.ML VIS PLOTLY CANDLE CHART" />
         <item itemvalue="Python.EXPERIMENT (1)" />
         <item itemvalue="Python.EXPERIMENT" />
         <item itemvalue="Python.DataGenerator (1)" />
-        <item itemvalue="Python.DataGenerator" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +292,12 @@
       <workItem from="1596616237211" duration="612000" />
       <workItem from="1597048571653" duration="10417000" />
       <workItem from="1597075147559" duration="12008000" />
-      <workItem from="1597129337421" duration="4810000" />
+      <workItem from="1597129337421" duration="9467000" />
+      <workItem from="1597174481824" duration="221000" />
+      <workItem from="1597221250488" duration="1379000" />
+      <workItem from="1598697336587" duration="619000" />
+      <workItem from="1598698377421" duration="969000" />
+      <workItem from="1598855934610" duration="938000" />
     </task>
     <task id="LOCAL-00001" summary="Synchronize with Github">
       <created>1573919712467</created>
@@ -412,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597087064263</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="SAVE MODEL">
+      <created>1597134332190</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1597134332190</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,13 +468,18 @@
     <MESSAGE value="DATA DIR" />
     <MESSAGE value="ADD AI TO" />
     <MESSAGE value="ADD AI TO QM" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD AI TO QM" />
+    <MESSAGE value="SAVE MODEL" />
+    <option name="LAST_COMMIT_MESSAGE" value="SAVE MODEL" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1059" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597050647418">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1059" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597050647418" />
+    <state x="960" y="436" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598697351496">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="960" y="436" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1598697351496" />
     <state x="1035" y="397" key="#xdebugger.evaluate" timestamp="1597130884002">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -470,38 +488,38 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="462" height="466" key="DebuggerActiveHint/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597060166777" />
-    <state width="2517" height="454" key="GridCell.Tab.0.bottom" timestamp="1597134073045">
+    <state width="2517" height="454" key="GridCell.Tab.0.bottom" timestamp="1597152886055">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597134073045" />
-    <state width="2517" height="454" key="GridCell.Tab.0.center" timestamp="1597134073045">
+    <state width="2517" height="454" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886055" />
+    <state width="2517" height="454" key="GridCell.Tab.0.center" timestamp="1597152886055">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597134073045" />
-    <state width="2517" height="454" key="GridCell.Tab.0.left" timestamp="1597134073045">
+    <state width="2517" height="454" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886055" />
+    <state width="2517" height="454" key="GridCell.Tab.0.left" timestamp="1597152886055">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597134073045" />
-    <state width="2517" height="454" key="GridCell.Tab.0.right" timestamp="1597134073045">
+    <state width="2517" height="454" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886055" />
+    <state width="2517" height="454" key="GridCell.Tab.0.right" timestamp="1597152886055">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597134073045" />
-    <state width="2517" height="454" key="GridCell.Tab.1.bottom" timestamp="1597134078729">
+    <state width="2517" height="454" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886055" />
+    <state width="2517" height="454" key="GridCell.Tab.1.bottom" timestamp="1597152886056">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597134078729" />
-    <state width="2517" height="454" key="GridCell.Tab.1.center" timestamp="1597134078729">
+    <state width="2517" height="454" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886056" />
+    <state width="2517" height="454" key="GridCell.Tab.1.center" timestamp="1597152886056">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597134078729" />
-    <state width="2517" height="454" key="GridCell.Tab.1.left" timestamp="1597134078729">
+    <state width="2517" height="454" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886056" />
+    <state width="2517" height="454" key="GridCell.Tab.1.left" timestamp="1597152886055">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597134078729" />
-    <state width="2517" height="454" key="GridCell.Tab.1.right" timestamp="1597134078729">
+    <state width="2517" height="454" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886055" />
+    <state width="2517" height="454" key="GridCell.Tab.1.right" timestamp="1597152886056">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597134078729" />
+    <state width="2517" height="454" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886056" />
     <state x="248" y="122" key="MergeDialog" timestamp="1590080270129">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -510,10 +528,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="573" y="214" key="SettingsEditor/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597050291396" />
-    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1597087073702">
+    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1597134343447">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597087073702" />
+    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597134343447" />
     <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1597055884444">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -605,9 +623,9 @@
           <option name="timeStamp" value="126" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/QM/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS/ML VIS PLOTLY CANDLE CHART.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="175" />
+          <url>file://$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES/PYTORCH DARNN GPU.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="177" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -629,8 +647,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/quantmaverick$test.coverage" NAME="test Coverage Results" MODIFIED="1592325272448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PLATFORMS/MT45/MT5_PYTHON" />
     <SUITE FILE_PATH="coverage/quantmaverick$DataGenerator.coverage" NAME="DataGenerator Coverage Results" MODIFIED="1597078139182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/DATA/Utils" />
-    <SUITE FILE_PATH="coverage/quantmaverick$DataGenerator__1_.coverage" NAME="DataGenerator (1) Coverage Results" MODIFIED="1597079621670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/DATA" />
-    <SUITE FILE_PATH="coverage/quantmaverick$MT45_OANDA_FXCM.coverage" NAME="MT45_OANDA_FXCM Coverage Results" MODIFIED="1575392642117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/quantmaverick$MULTIGPUTEST.coverage" NAME="MULTIGPUTEST Coverage Results" MODIFIED="1596548990206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/DEEPLEARNING" />
     <SUITE FILE_PATH="coverage/quantmaverick$DSTP_RNN.coverage" NAME="DSTP_RNN Coverage Results" MODIFIED="1597075340756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES" />
     <SUITE FILE_PATH="coverage/quantmaverick$CartPole_Random.coverage" NAME="CartPole_Random Coverage Results" MODIFIED="1575096689778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/DL/RL" />
@@ -639,5 +655,8 @@
     <SUITE FILE_PATH="coverage/quantmaverick$DARNN.coverage" NAME="DARNN Coverage Results" MODIFIED="1597084831206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES" />
     <SUITE FILE_PATH="coverage/quantmaverick$ML_VIS_PLOTLY_CANDLE_CHART.coverage" NAME="ML VIS PLOTLY CANDLE CHART Coverage Results" MODIFIED="1597134072875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS" />
     <SUITE FILE_PATH="coverage/quantmaverick$EXPERIMENT__1_.coverage" NAME="EXPERIMENT (1) Coverage Results" MODIFIED="1597133536390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES" />
+    <SUITE FILE_PATH="coverage/quantmaverick$DataGenerator__1_.coverage" NAME="DataGenerator (1) Coverage Results" MODIFIED="1597079621670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/DATA" />
+    <SUITE FILE_PATH="coverage/quantmaverick$MT45_OANDA_FXCM.coverage" NAME="MT45_OANDA_FXCM Coverage Results" MODIFIED="1575392642117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/quantmaverick$PYTORCH_DARNN_GPU.coverage" NAME="PYTORCH DARNN GPU Coverage Results" MODIFIED="1597152758936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES" />
   </component>
 </project>
