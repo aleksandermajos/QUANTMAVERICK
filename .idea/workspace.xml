@@ -19,22 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="TESTS">
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/TIMELINE_EURUSD.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="WORKING AGAIN QM!!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/DataGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/DataGenerator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/CODE/Account.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/CODE/account.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/CODE/Chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/CODE/chart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/CODE/Instrument.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/CODE/instrument.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/CODE/Listener.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/CODE/listener.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/CODE/Start.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/CODE/start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/CODE/Strategy.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/CODE/strategy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/CODE/Transaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/CODE/transaction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/learning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/CODE/account.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/CODE/account.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -330,7 +318,7 @@
       <workItem from="1600952742995" duration="50000" />
       <workItem from="1600952839619" duration="501000" />
       <workItem from="1601812171867" duration="1229000" />
-      <workItem from="1601878503783" duration="19275000" />
+      <workItem from="1601878503783" duration="20741000" />
     </task>
     <task id="LOCAL-00001" summary="Synchronize with Github">
       <created>1573919712467</created>
@@ -493,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601887239391</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="WORKING AGAIN QM!!">
+      <created>1601905372095</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1601905372095</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,7 +533,8 @@
     <MESSAGE value="SAVE MODEL" />
     <MESSAGE value="Refactor" />
     <MESSAGE value="TESTS" />
-    <option name="LAST_COMMIT_MESSAGE" value="TESTS" />
+    <MESSAGE value="WORKING AGAIN QM!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="WORKING AGAIN QM!!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601890615263">
@@ -561,46 +557,46 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="462" height="466" key="DebuggerActiveHint/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597060166777" />
-    <state width="2517" height="343" key="GridCell.Tab.0.bottom" timestamp="1601905024845">
+    <state width="2517" height="343" key="GridCell.Tab.0.bottom" timestamp="1601906790444">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="343" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601905024845" />
-    <state width="2517" height="343" key="GridCell.Tab.0.center" timestamp="1601905024845">
+    <state width="2517" height="343" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601906790444" />
+    <state width="2517" height="343" key="GridCell.Tab.0.center" timestamp="1601906790444">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="343" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601905024845" />
-    <state width="2517" height="343" key="GridCell.Tab.0.left" timestamp="1601905024845">
+    <state width="2517" height="343" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601906790444" />
+    <state width="2517" height="343" key="GridCell.Tab.0.left" timestamp="1601906790444">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="343" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601905024845" />
-    <state width="2517" height="343" key="GridCell.Tab.0.right" timestamp="1601905024845">
+    <state width="2517" height="343" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601906790444" />
+    <state width="2517" height="343" key="GridCell.Tab.0.right" timestamp="1601906790444">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="343" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601905024845" />
-    <state width="2517" height="343" key="GridCell.Tab.1.bottom" timestamp="1601904908279">
+    <state width="2517" height="343" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601906790444" />
+    <state width="2517" height="343" key="GridCell.Tab.1.bottom" timestamp="1601906793078">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="343" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601904908279" />
-    <state width="2517" height="343" key="GridCell.Tab.1.center" timestamp="1601904908279">
+    <state width="2517" height="343" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601906793078" />
+    <state width="2517" height="343" key="GridCell.Tab.1.center" timestamp="1601906793078">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="343" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601904908279" />
-    <state width="2517" height="343" key="GridCell.Tab.1.left" timestamp="1601904908279">
+    <state width="2517" height="343" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601906793078" />
+    <state width="2517" height="343" key="GridCell.Tab.1.left" timestamp="1601906793078">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="343" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601904908279" />
-    <state width="2517" height="343" key="GridCell.Tab.1.right" timestamp="1601904908279">
+    <state width="2517" height="343" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601906793078" />
+    <state width="2517" height="343" key="GridCell.Tab.1.right" timestamp="1601906793078">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="343" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601904908279" />
+    <state width="2517" height="343" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601906793078" />
     <state x="573" y="214" width="1022" height="737" key="SettingsEditor" timestamp="1597050291396">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="573" y="214" key="SettingsEditor/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597050291396" />
-    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601887247455">
+    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601905383321">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601887247455" />
+    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601905383321" />
     <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1601898885603">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -706,6 +702,16 @@
           <line>12</line>
           <option name="timeStamp" value="219" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/QM/CODE/account.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/QM/CODE/account.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -740,7 +746,7 @@
     <SUITE FILE_PATH="coverage/quantmaverick$MT45_OANDA_FXCM.coverage" NAME="MT45_OANDA_FXCM Coverage Results" MODIFIED="1575392642117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/quantmaverick$PYTORCH_DARNN_GPU.coverage" NAME="PYTORCH DARNN GPU Coverage Results" MODIFIED="1597152758936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES" />
     <SUITE FILE_PATH="coverage/QUANTMAVERICK$Start.coverage" NAME="Start Coverage Results" MODIFIED="1601887996542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
-    <SUITE FILE_PATH="coverage/QUANTMAVERICK$start__1_.coverage" NAME="start Coverage Results" MODIFIED="1601904896972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
+    <SUITE FILE_PATH="coverage/QUANTMAVERICK$start__1_.coverage" NAME="start Coverage Results" MODIFIED="1601906790291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
     <SUITE FILE_PATH="coverage/QUANTMAVERICK$listener.coverage" NAME="listener Coverage Results" MODIFIED="1601892758909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
   </component>
 </project>

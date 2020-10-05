@@ -60,6 +60,7 @@ class AccountMT4(Account):
         self.margin = 0
 
     def find_dns_name(internal_name):
+        if internal_name == "OANDA-v20 Live-2": return "mt4-ng-trade02.oanda.com"
         if internal_name == "MetaQuotes-Demo": return "access.metatrader5.com"
         if internal_name == "FxPro-MT5": return "access.metatrader5.com"
         if internal_name == "BICMarkets-Demo": return "access.metatrader5.com"
@@ -71,7 +72,7 @@ class AccountMT4(Account):
         else: return ""
 
     def find_signal_speed_to_broker(server_name):
-        '''
+
         out = subprocess.run(['ping', server_name], capture_output=True)
         str = out.stdout.decode("utf-8")
         start_ip = str.find('[')
@@ -81,8 +82,8 @@ class AccountMT4(Account):
         stop_maximum = str.find("Average")
         max = str[start_maximum+10:stop_maximum-4]
         max = int(max)
-        '''
-        return 10, "37.30.24.223"
+
+        return max, ip_adress
 
 
     def do_something(self):
