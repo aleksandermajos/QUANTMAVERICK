@@ -20,166 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="Refactor">
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/ARCHITECTURES/DARNN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/ARCHITECTURES/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/AUDIO/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/COMPUTER VISION/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/FRAMEWORKS/PYTORCH/DL DARNN GPU FW PYORCH.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/FRAMEWORKS/PYTORCH/DL TENSORBOARD PYTORCH.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/FRAMEWORKS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/GENERATIVE/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/NLP/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/NLP/TRANSLATE/DL NLP TRANSLATION EN-FR.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/NLP/VOICE/STT/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/NLP/VOICE/TTS/DL NLP VOICE  TTS.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/NLP/VOICE/TTS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/NLP/WORDS/TeachMe.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/PREELIMINARIES/DL PRELIMINARY INSTALL SOFTWARE_AND_HARDWARE.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/PREELIMINARIES/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/TIME SERIES/DL TS PYTORCH DARNN GPU.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/TIME SERIES/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/TIME SERIES/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/TRAINING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/TRAINING/TRAINED/PREDICTORS/DARNN_EURUSD_H12.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/TRAINING/Train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/TRAINING/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEPLOYMENT/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/METAHEURISTICS LEARNING/GENETIC ALGORITHMS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/METAHEURISTICS LEARNING/META LEARNING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/METAHEURISTICS LEARNING/NEUROEVOLUTION/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/METAHEURISTICS LEARNING/SIMULATED ANNEALLING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/ANT COLONY/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/PARTICLE SWARM/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/STOCHASTIC DIFFIUSION/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/QUANTUM MACHINE LEARNING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Agents/Trading_Agent/RandomAgent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Agents/Trading_Agent/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Agents/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/requires.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/envs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/envs/trading_env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/RL OPENAI GYM.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/RL OWN AGENT PLAY.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/REINFORCEMENT LEARNING/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/ALGORITHMS/GRAPHS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/ALGORITHMS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/CALCULUS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/LINEAR ALGEBRA/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/NUMPY/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/PANDAS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/PROBABILISTICS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/PROBABILISTICS/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/SCRAPING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/SCRAPING/REVERSO.NET/PYTHON WEB SENTENCES SCRAPPING.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/SCRAPING/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/STATISTICS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/VISUALIZATIONS/PYTHON PLOTLY CANDLE VISUALIZATIONS.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/VISUALIZATIONS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/VISUALIZATIONS/Visualize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/VISUALIZATIONS/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/PYTHON/SKLEARN/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/.ipynb_checkpoints/learning-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/datasets/lifesat/gdp_per_capita.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/datasets/lifesat/oecd_bli_2015.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/learning.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/DATALAKE/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/DATALAKE/TIMESERIES/DataGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/DataGenerator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/DATALAKE/TIMESERIES/DataPreparator.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/DataPreparator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/DATALAKE/TIMESERIES/Utils/Credentials_Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Credentials_Utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/DATALAKE/TIMESERIES/Utils/Data_Utils_Generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Data_Utils_Generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/DATALAKE/TIMESERIES/Utils/Data_Utils_Preparator.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Data_Utils_Preparator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/DATALAKE/TIMESERIES/Utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/ARCHITECTURES/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/DATALAKE/TIMESERIES/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/TIME SERIES/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/DATALAKE/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/TRAINING/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/ARCHITECTURES/DARNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/ARCHITECTURES/DARNN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/ARCHITECTURES/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/ARCHITECTURES/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/ARCHITECTURES/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/AUDIO/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/AUDIO/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/COMPUTER VISION/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/COMPUTER VISION/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/FRAMEWORKS/PYTORCH/DL DARNN GPU FW PYORCH.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/FRAMEWORKS/PYTORCH/DL DARNN GPU FW PYORCH.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/FRAMEWORKS/PYTORCH/DL TENSORBOARD PYTORCH.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/FRAMEWORKS/PYTORCH/DL TENSORBOARD PYTORCH.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/FRAMEWORKS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/FRAMEWORKS/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/GENERATIVE/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/GENERATIVE/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/NLP/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/NLP/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/NLP/TRANSLATE/DL NLP TRANSLATION EN-FR.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/NLP/TRANSLATE/DL NLP TRANSLATION EN-FR.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/NLP/VOICE/STT/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/NLP/VOICE/STT/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/NLP/VOICE/TTS/DL NLP VOICE  TTS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/NLP/VOICE/TTS/DL NLP VOICE  TTS.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/NLP/VOICE/TTS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/NLP/VOICE/TTS/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/NLP/WORDS/TeachMe.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/NLP/WORDS/TeachMe.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/PREELIMINARIES/DL PRELIMINARY INSTALL SOFTWARE_AND_HARDWARE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/PREELIMINARIES/DL PRELIMINARY INSTALL SOFTWARE_AND_HARDWARE.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/PREELIMINARIES/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/PREELIMINARIES/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/TIME SERIES/DL TS PYTORCH DARNN GPU.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/TIME SERIES/DL TS PYTORCH DARNN GPU.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/TIME SERIES/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/TIME SERIES/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/TIME SERIES/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Agents/Trading_Agent/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/TRAINING/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/TRAINING/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/TRAINING/TRAINED/PREDICTORS/DARNN_EURUSD_H12.pt" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/TRAINING/TRAINED/PREDICTORS/DARNN_EURUSD_H12.pt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/TRAINING/Train.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEEP LEARNING/TRAINING/Train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/TRAINING/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Agents/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/DEPLOYMENT/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/DEPLOYMENT/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/METAHEURISTICS LEARNING/GENETIC ALGORITHMS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/METAHEURISTICS LEARNING/GENETIC ALGORITHMS/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/METAHEURISTICS LEARNING/META LEARNING/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/METAHEURISTICS LEARNING/META LEARNING/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/METAHEURISTICS LEARNING/NEUROEVOLUTION/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/METAHEURISTICS LEARNING/NEUROEVOLUTION/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/METAHEURISTICS LEARNING/SIMULATED ANNEALLING/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/METAHEURISTICS LEARNING/SIMULATED ANNEALLING/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/ANT COLONY/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/ANT COLONY/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/PARTICLE SWARM/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/PARTICLE SWARM/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/STOCHASTIC DIFFIUSION/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/STOCHASTIC DIFFIUSION/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/QUANTUM MACHINE LEARNING/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/QUANTUM MACHINE LEARNING/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Agents/Trading_Agent/RandomAgent.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Agents/Trading_Agent/RandomAgent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Agents/Trading_Agent/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Agents/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/PKG-INFO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/SOURCES.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/dependency_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/dependency_links.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/requires.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/requires.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/top_level.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/envs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/envs/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/envs/trading_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/envs/trading_env.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/Envs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/PROBABILISTICS/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/RL OPENAI GYM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/RL OPENAI GYM.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/RL OWN AGENT PLAY.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/MACHINE LEARNING/REINFORCEMENT LEARNING/RL OWN AGENT PLAY.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/REINFORCEMENT LEARNING/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/SCRAPING/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/MACHINE LEARNING/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/VISUALIZATIONS/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/ALGORITHMS/GRAPHS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/ALGORITHMS/GRAPHS/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/ALGORITHMS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/ALGORITHMS/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/CALCULUS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/CALCULUS/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/LINEAR ALGEBRA/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/LINEAR ALGEBRA/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/NUMPY/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/NUMPY/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/PANDAS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/PANDAS/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/PROBABILISTICS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/PROBABILISTICS/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/PROBABILISTICS/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/SCRAPING/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/SCRAPING/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/SCRAPING/REVERSO.NET/PYTHON WEB SENTENCES SCRAPPING.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/SCRAPING/REVERSO.NET/PYTHON WEB SENTENCES SCRAPPING.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/SCRAPING/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/STATISTICS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/STATISTICS/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/VISUALIZATIONS/PYTHON PLOTLY CANDLE VISUALIZATIONS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/VISUALIZATIONS/PYTHON PLOTLY CANDLE VISUALIZATIONS.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/VISUALIZATIONS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/VISUALIZATIONS/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/VISUALIZATIONS/Visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTHON/VISUALIZATIONS/Visualize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/VISUALIZATIONS/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/PYTHON/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/ARCHITECTURES/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +64,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TEST" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -235,36 +83,14 @@
       <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\BIGAISCHOOL\MACHINE LEARNING\DEEP LEARNING\NLP\WORDS" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\TEST" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\PYTHON\SKLEARN" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\QM\BIGAISCHOOL" />
       <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\BIGAISCHOOL\MACHINE LEARNING\PYTHON\VISUALIZATIONS" />
-      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\BIGAISCHOOL\MACHINE LEARNING\DEEP LEARNING\NLP" />
-      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\BIGAISCHOOL\NOTEBOOKS\MACHINE LEARNING\DEEP LEARNING\NLP\WORDS" />
-      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\BIGAISCHOOL\NOTEBOOKS" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PYTORCH DARNN GPU">
-    <configuration name="DataGenerator (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="QUANTMAVERICK PROJECT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QM/DATA" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QM/DATA/DataGenerator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.learning">
     <configuration name="EXPERIMENT (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QUANTMAVERICK PROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -353,20 +179,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="learning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QUANTMAVERICK PROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TEST" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TEST/learning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.DataGenerator (1)" />
       <item itemvalue="Python.EXPERIMENT" />
       <item itemvalue="Python.EXPERIMENT (1)" />
       <item itemvalue="Python.ML VIS PLOTLY CANDLE CHART" />
       <item itemvalue="Python.PYTORCH DARNN GPU" />
+      <item itemvalue="Python.learning" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.learning" />
         <item itemvalue="Python.PYTORCH DARNN GPU" />
         <item itemvalue="Python.ML VIS PLOTLY CANDLE CHART" />
         <item itemvalue="Python.EXPERIMENT (1)" />
         <item itemvalue="Python.EXPERIMENT" />
-        <item itemvalue="Python.DataGenerator (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +299,9 @@
       <workItem from="1599069344309" duration="120000" />
       <workItem from="1600795616792" duration="80000" />
       <workItem from="1600952742995" duration="50000" />
-      <workItem from="1600952839619" duration="476000" />
+      <workItem from="1600952839619" duration="501000" />
+      <workItem from="1601812171867" duration="1229000" />
+      <workItem from="1601878503783" duration="4440000" />
     </task>
     <task id="LOCAL-00001" summary="Synchronize with Github">
       <created>1573919712467</created>
@@ -600,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599069250804</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Refactor">
+      <created>1600953323479</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1600953323479</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -663,54 +520,54 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="462" height="466" key="DebuggerActiveHint/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597060166777" />
-    <state width="2517" height="454" key="GridCell.Tab.0.bottom" timestamp="1597152886055">
+    <state width="2517" height="454" key="GridCell.Tab.0.bottom" timestamp="1601887115299">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886055" />
-    <state width="2517" height="454" key="GridCell.Tab.0.center" timestamp="1597152886055">
+    <state width="2517" height="454" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601887115299" />
+    <state width="2517" height="454" key="GridCell.Tab.0.center" timestamp="1601887115299">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886055" />
-    <state width="2517" height="454" key="GridCell.Tab.0.left" timestamp="1597152886055">
+    <state width="2517" height="454" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601887115299" />
+    <state width="2517" height="454" key="GridCell.Tab.0.left" timestamp="1601887115298">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886055" />
-    <state width="2517" height="454" key="GridCell.Tab.0.right" timestamp="1597152886055">
+    <state width="2517" height="454" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601887115298" />
+    <state width="2517" height="454" key="GridCell.Tab.0.right" timestamp="1601887115299">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886055" />
-    <state width="2517" height="454" key="GridCell.Tab.1.bottom" timestamp="1597152886056">
+    <state width="2517" height="454" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601887115299" />
+    <state width="2517" height="454" key="GridCell.Tab.1.bottom" timestamp="1601887115299">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886056" />
-    <state width="2517" height="454" key="GridCell.Tab.1.center" timestamp="1597152886056">
+    <state width="2517" height="454" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601887115299" />
+    <state width="2517" height="454" key="GridCell.Tab.1.center" timestamp="1601887115299">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886056" />
-    <state width="2517" height="454" key="GridCell.Tab.1.left" timestamp="1597152886055">
+    <state width="2517" height="454" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601887115299" />
+    <state width="2517" height="454" key="GridCell.Tab.1.left" timestamp="1601887115299">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886055" />
-    <state width="2517" height="454" key="GridCell.Tab.1.right" timestamp="1597152886056">
+    <state width="2517" height="454" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601887115299" />
+    <state width="2517" height="454" key="GridCell.Tab.1.right" timestamp="1601887115299">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="454" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597152886056" />
+    <state width="2517" height="454" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601887115299" />
     <state x="573" y="214" width="1022" height="737" key="SettingsEditor" timestamp="1597050291396">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="573" y="214" key="SettingsEditor/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597050291396" />
-    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599069257449">
+    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600953332864">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1599069257449" />
+    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1600953332864" />
     <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1597055884444">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1288" height="708" key="XDebugger.FullValuePopup/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1597055884444" />
-    <state x="959" y="592" width="482" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600952759587">
+    <state x="959" y="592" width="482" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601812180366">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="959" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1600952759587" />
+    <state x="959" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601812180366" />
     <state x="993" y="601" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596612412676">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -798,6 +655,11 @@
           <line>21</line>
           <option name="timeStamp" value="177" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TEST/learning.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -825,6 +687,7 @@
     <SUITE FILE_PATH="coverage/quantmaverick$Start.coverage" NAME="Start Coverage Results" MODIFIED="1597056322765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM" />
     <SUITE FILE_PATH="coverage/quantmaverick$DARNN.coverage" NAME="DARNN Coverage Results" MODIFIED="1597084831206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES" />
     <SUITE FILE_PATH="coverage/quantmaverick$ML_VIS_PLOTLY_CANDLE_CHART.coverage" NAME="ML VIS PLOTLY CANDLE CHART Coverage Results" MODIFIED="1597134072875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS" />
+    <SUITE FILE_PATH="coverage/QUANTMAVERICK$learning.coverage" NAME="learning Coverage Results" MODIFIED="1601886186634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TEST" />
     <SUITE FILE_PATH="coverage/quantmaverick$EXPERIMENT__1_.coverage" NAME="EXPERIMENT (1) Coverage Results" MODIFIED="1597133536390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES" />
     <SUITE FILE_PATH="coverage/quantmaverick$DataGenerator__1_.coverage" NAME="DataGenerator (1) Coverage Results" MODIFIED="1597079621670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/DATA" />
     <SUITE FILE_PATH="coverage/quantmaverick$MT45_OANDA_FXCM.coverage" NAME="MT45_OANDA_FXCM Coverage Results" MODIFIED="1575392642117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
