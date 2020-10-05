@@ -1,9 +1,11 @@
 import zmq
 import zmq.asyncio
-from Chart import ChartFX
-from Strategy import StrategyFXTickArbitrage
+from chart import ChartFX
+from strategy import StrategyFXTickArbitrage
 import pandas as pd
 import json
+from pathlib import Path
+from os import fspath
 
 
 class Listener:
@@ -71,7 +73,10 @@ class Listener:
                         else:
                             self.TimeLine = self.TimeLine.append(data, ignore_index=True)
                         if self.TimeLine.shape[0] %100 == 0:
-                            self.TimeLine.to_csv('TIMELINE_EURUSD.csv')
+                            data_path = Path(Path(
+                                __file__).resolve().parent.parent.parent) / "BIGAISCHOOL\LIBRARY\DATALAKE\DATA\TIMELINE_EURUSD.csv"
+                            data_path_last = fspath(data_path)
+                            self.TimeLine.to_csv(data_path_last)
                         print(data.to_string(header=False,index=False))
                 if exist == True:
                     self.oldsub = self.newsub

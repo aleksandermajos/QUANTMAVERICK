@@ -1,19 +1,19 @@
 from abc import ABC, abstractmethod
-from Instrument import InstrumentMT4, InstrumentCTRADER
-from Account import AccountMT4, AccountCTRADER, AccountFXCMAPI, AccountFIX
-from Transaction import TransactionMT4, TransactionCTRADER
+from instrument import InstrumentMT4, InstrumentCTRADER
+from account import AccountMT4, AccountCTRADER, AccountFXCMAPI, AccountFIX
+from transaction import TransactionMT4, TransactionCTRADER
+from pathlib import Path
+from os import fspath
 import json
 import pandas as pd
 import zmq
 import zmq.asyncio
-from Utils.Credentials_Utils import exampleAuth
-from oandapyV20.exceptions import StreamTerminated
+from BIGAISCHOOL.LIBRARY.DATALAKE.TIMESERIES.Utils.Credentials_Utils import exampleAuth
 import fxcmpy
-import socket, time
+import socket
 from datetime import datetime
 import functools
 import oandapyV20.endpoints.pricing as pricing
-from oandapyV20 import API
 import oandapyV20
 import time
 import numpy as np
@@ -54,10 +54,12 @@ class ChartFX(Chart):
         data = self.req.recv()
         if len(data) > 2:
             data = data.decode('utf8')
-            f = open("DATA/data_candles.csv", "w")
+            data_path = Path(Path(__file__).resolve().parent.parent.parent) / "BIGAISCHOOL\LIBRARY\DATALAKE\DATA\data_candles.csv"
+            data_path_last = fspath(data_path)
+            f = open(data_path_last, "w")
             f.write(data[:])
             f.close()
-            file = open("DATA/data_candles.csv")
+            file = open(data_path_last, "r")
             self.history = pd.read_csv(file)
         self.tick = ''
         self.req.send(b"ACCOUNTINFO")

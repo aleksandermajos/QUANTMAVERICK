@@ -10,6 +10,11 @@ mpl.rc('ytick', labelsize=12)
 import os
 datapath = os.path.join("datasets", "lifesat", "")
 
+import os, sys
+parentddir = os.path.abspath(os.path.join(os.path.dirname(__file__), os.path.pardir))
+sys.path.append(parentddir)
+import utils
+
 
 
 def prepare_country_stats(oecd_bli, gdp_per_capita):

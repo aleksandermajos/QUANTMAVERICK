@@ -1,5 +1,5 @@
-from QM.BIGDATALAKE.Utils.Credentials_Utils import exampleAuth
-from QM.BIGDATALAKE.Utils.Data_Utils_Generator import get_history_oanda
+from Utils.Credentials_Utils import exampleAuth
+from Utils.Data_Utils_Generator import get_history_oanda
 
 
 class OandaDataGenerator():

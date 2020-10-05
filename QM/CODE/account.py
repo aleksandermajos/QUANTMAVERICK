@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from Transaction import TransactionMT4
+from transaction import TransactionMT4
 import os
 import subprocess
 
