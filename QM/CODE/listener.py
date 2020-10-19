@@ -1,7 +1,7 @@
 import zmq
 import zmq.asyncio
 from chart import ChartFX
-from strategy import StrategyFXTickArbitrage
+from strategy import StrategyFXTickRandom
 import pandas as pd
 import json
 from pathlib import Path
@@ -17,7 +17,7 @@ class Listener:
         self.req = self.context.socket(zmq.REQ)
         self.Charts = list()
         self.TimeLine = pd.DataFrame()
-        self.Strategy = {"ArbitrageO1": StrategyFXTickArbitrage("ArbitrageO1")}
+        self.Strategy = {"StrategyFXTickRandom": StrategyFXTickRandom("StrategyFXTickRandom")}
         '''
         self.TimeLine = pd()
         okoi = 5
@@ -67,7 +67,7 @@ class Listener:
                     if x.WindowID == WindowID:
                         exist = True
                         data = x.GetData(my_json)
-                        self.Strategy['ArbitrageO1'].Decide(self.Charts)
+                        self.Strategy['StrategyFXTickRandom'].Decide(self.Charts)
                         if self.TimeLine.empty:
                             self.TimeLine = data
                         else:

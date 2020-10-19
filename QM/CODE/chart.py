@@ -35,6 +35,8 @@ class ChartFX(Chart):
         self.Symbol = data["Symbol"]
         self.Period = data["Period"]
         self.WindowID = data["WindowID"]
+        self.OpenTimes = list()
+        self.ClosingTimes = list()
         self.subport = subport
         self.reqport = reqport
         self.context = zmq.Context()

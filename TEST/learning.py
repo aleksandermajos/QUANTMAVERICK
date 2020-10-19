@@ -13,7 +13,7 @@ datapath = os.path.join("datasets", "lifesat", "")
 import os, sys
 parentddir = os.path.abspath(os.path.join(os.path.dirname(__file__), os.path.pardir))
 sys.path.append(parentddir)
-import utils
+
 
 
 
@@ -46,3 +46,13 @@ y = np.c_[country_stats["Life satisfaction"]]
 
 country_stats.plot(kind='scatter', x="GDP per capita", y='Life satisfaction')
 plt.show()
+
+# Select a linear model
+model = sklearn.linear_model.LinearRegression()
+
+# Train the model
+model.fit(X, y)
+
+# Make a prediction for Cyprus
+X_new = [[22587]]  # Cyprus' GDP per capita
+print(model.predict(X_new)) # outputs [[ 5.96242338]]

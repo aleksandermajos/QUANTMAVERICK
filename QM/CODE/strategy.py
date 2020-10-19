@@ -1,5 +1,7 @@
 from abc import ABC, abstractmethod
 import json
+from random import choice
+import numpy as np
 
 class Strategy(ABC):
 
@@ -19,6 +21,44 @@ class StrategyFX(Strategy):
     def Decide(self, Charts):
         pass
 
+class StrategyFXTickRandom(StrategyFX):
+    def __init__(self, name):
+        self.name = name
+
+
+    def Decide(self, Charts):
+        answer = choice(['buy', 'sell'])
+        my_json = None
+        if (answer == 'buy' and not Charts[0].actuall.empty):
+            message_x = {'key': 'OPEN', 'symbol': Charts[0].instrument.name, 'operation':"OP_BUY",'volume': 0.01,
+                                     'price': Charts[0].actuall["Ask"].iloc[0],'slippage': 0,'TP': 0, 'SL': 0}
+            message_x_json = json.dumps(message_x)
+            Charts[0].req.send(message_x_json.encode('utf-8'))
+            data_operation = Charts[0].req.recv()
+            sub_msg = data_operation.decode('utf8').replace("}{", ", ")
+            my_json = json.loads(sub_msg)
+            json.dumps(sub_msg, indent=4, sort_keys=True)
+            my_json["time_start"] = np.datetime64(my_json["time_start"])
+            my_json["time_stop"] = np.datetime64(my_json["time_stop"])
+            Charts[0].OpenTimes.append(my_json["time_stop"]-my_json["time_start"])
+
+
+
+        if (answer == 'sell' and not Charts[0].actuall.empty):
+            message_x = {'key': 'OPEN', 'symbol': Charts[0].instrument.name, 'operation': "OP_SELL", 'volume': 0.01,
+                         'price': Charts[0].actuall["Ask"].iloc[0], 'slippage': 0, 'TP': 0, 'SL': 0}
+            message_x_json = json.dumps(message_x)
+            Charts[0].req.send(message_x_json.encode('utf-8'))
+            data_operation = Charts[0].req.recv()
+            sub_msg = data_operation.decode('utf8').replace("}{", ", ")
+            my_json = json.loads(sub_msg)
+            json.dumps(sub_msg, indent=4, sort_keys=True)
+            my_json["time_start"] = np.datetime64(my_json["time_start"])
+            my_json["time_stop"] = np.datetime64(my_json["time_stop"])
+            Charts[0].OpenTimes.append(my_json["time_stop"] - my_json["time_start"])
+
+
+        return my_json
 
 class StrategyFXTickArbitrage(StrategyFX):
     def __init__(self, name):
