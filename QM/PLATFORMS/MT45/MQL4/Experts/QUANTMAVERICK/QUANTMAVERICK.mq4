@@ -39,12 +39,15 @@ string ReqRepReply(string Message)
     if(StringFind(Message,"OPEN",0) != -1) Result = Result+OpenTran(Message);
     if(StringFind(Message,"CLOSE",0) != -1) Result = Result+CloseTran(Message);
     
+    
     return Result;
     
 }
 string OpenTran(string Message)
 {
 int number = 0;
+string time_start = "";
+string time_stop = "";
 JSONParser *parser = new JSONParser();
 JSONValue *jv = parser.parse(Message);
 
@@ -63,7 +66,11 @@ int slippage = jo.getInt("slippage");
 int TP = jo.getInt("TP");
 int SL = jo.getInt("SL");
 
+time_start = CurrentTime();
+
 number = OrderSend(symbol,operation,volume,price,slippage,TP,SL);
+
+time_stop = CurrentTime();
 }
 delete jv;
 }
@@ -75,7 +82,9 @@ if(number != 0) Result = "true";
 else Result = "false";
 
 string uRetval =  "{";
-    uRetval += StringFormat("\"Result\": %s ",Result);
+    uRetval += StringFormat("\"Result\": %s, ",Result);
+    uRetval += StringFormat("\"time_start\": \"%s\", ", time_start);
+    uRetval += StringFormat("\"time_stop\": \"%s\" ", time_stop);
     uRetval += "}";
     return(uRetval);
 }
@@ -154,7 +163,7 @@ TO_SEND = ReqRepReply("CHARTNAME.PRICE");
 int OnInit()
   {
 //--- create timer
-   EventSetMillisecondTimer(100);
+   //EventSetMillisecondTimer(100);
    SUBLISTENERPORTS.connect("tcp://localhost:2025");
    SUBLISTENERPORTS.subscribe("");
    LAST_REQ="CHARTNAME";

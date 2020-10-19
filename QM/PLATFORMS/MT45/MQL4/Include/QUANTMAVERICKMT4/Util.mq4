@@ -152,6 +152,27 @@ string uRetval;
 MqlTick last_tick;
 SymbolInfoTick(uSymbol,last_tick);
 
+uRetval =  "{";
+    uRetval += StringFormat("\"symbol\": \"%s\", ", uSymbol);
+    uRetval += StringFormat("\"time\": \"%s\", ", CurrentTime());
+    uRetval += StringFormat("\"bid\": %f, ",last_tick.bid );
+    uRetval += StringFormat("\"ask\": %f, ",last_tick.ask );
+    uRetval += StringFormat("\"volumen\": %f ",last_tick.volume);
+    uRetval += "}";
+    return(uRetval);
+}
+string Portsnr(int SUBPUB,int REQREP)
+{
+string uRetval =  "{";
+    uRetval += StringFormat("\"SubPubPort\": %i, ", SUBPUB);
+    uRetval += StringFormat("\"ReqRepPort\": %i ", REQREP);
+    uRetval += "}";
+    return(uRetval);
+}
+
+string CurrentTime()
+{
+string uRetval;
 _SYSTEMTIME st;
   GetSystemTime(st);
 string ti = st.wYear+"-";
@@ -170,20 +191,7 @@ if (StringLen(st.wMilliseconds) == 1) ti = ti+"00"+st.wMilliseconds;
 if (StringLen(st.wMilliseconds) == 2) ti = ti+"0"+st.wMilliseconds;
 else ti = ti+st.wMilliseconds;
 
-uRetval =  "{";
-    uRetval += StringFormat("\"symbol\": \"%s\", ", uSymbol);
-    uRetval += StringFormat("\"time\": \"%s\", ", ti);
-    uRetval += StringFormat("\"bid\": %f, ",last_tick.bid );
-    uRetval += StringFormat("\"ask\": %f, ",last_tick.ask );
-    uRetval += StringFormat("\"volumen\": %f ",last_tick.volume);
-    uRetval += "}";
-    return(uRetval);
-}
-string Portsnr(int SUBPUB,int REQREP)
-{
-string uRetval =  "{";
-    uRetval += StringFormat("\"SubPubPort\": %i, ", SUBPUB);
-    uRetval += StringFormat("\"ReqRepPort\": %i ", REQREP);
-    uRetval += "}";
-    return(uRetval);
+uRetval =  ti;
+return(uRetval);
+
 }
