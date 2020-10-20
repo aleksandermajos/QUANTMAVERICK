@@ -2,6 +2,7 @@ from abc import ABC, abstractmethod
 import json
 from random import choice
 import numpy as np
+from BIGAISCHOOL.LIBRARY.DATALAKE.TIMESERIES.Utils.Data_Utils_Time_ToChart import Open_Time_ToChart, Close_Time_ToChart
 
 class Strategy(ABC):
 
@@ -35,12 +36,7 @@ class StrategyFXTickRandom(StrategyFX):
             message_x_json = json.dumps(message_x)
             Charts[0].req.send(message_x_json.encode('utf-8'))
             data_operation = Charts[0].req.recv()
-            sub_msg = data_operation.decode('utf8').replace("}{", ", ")
-            my_json = json.loads(sub_msg)
-            json.dumps(sub_msg, indent=4, sort_keys=True)
-            my_json["time_start"] = np.datetime64(my_json["time_start"])
-            my_json["time_stop"] = np.datetime64(my_json["time_stop"])
-            Charts[0].OpenTimes.append(my_json["time_stop"]-my_json["time_start"])
+            Open_Time_ToChart(data_operation,Charts[0])
 
 
 
@@ -50,12 +46,7 @@ class StrategyFXTickRandom(StrategyFX):
             message_x_json = json.dumps(message_x)
             Charts[0].req.send(message_x_json.encode('utf-8'))
             data_operation = Charts[0].req.recv()
-            sub_msg = data_operation.decode('utf8').replace("}{", ", ")
-            my_json = json.loads(sub_msg)
-            json.dumps(sub_msg, indent=4, sort_keys=True)
-            my_json["time_start"] = np.datetime64(my_json["time_start"])
-            my_json["time_stop"] = np.datetime64(my_json["time_stop"])
-            Charts[0].OpenTimes.append(my_json["time_stop"] - my_json["time_start"])
+            Open_Time_ToChart(data_operation, Charts[0])
 
 
         return my_json
