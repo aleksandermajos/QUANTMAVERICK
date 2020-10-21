@@ -2,7 +2,7 @@ from abc import ABC, abstractmethod
 import json
 from random import choice
 import numpy as np
-from BIGAISCHOOL.LIBRARY.DATALAKE.TIMESERIES.Utils.Data_Utils_Time_ToChart import Open_Time_ToChart, Close_Time_ToChart
+from BIGAISCHOOL.LIBRARY.DATALAKE.TIMESERIES.Utils.Data_Utils_Time_ToChart import Open_Time_To_Existing_Chart, Close_Time_To_Existing_Chart
 
 class Strategy(ABC):
 
@@ -36,7 +36,7 @@ class StrategyFXTickRandom(StrategyFX):
             message_x_json = json.dumps(message_x)
             Charts[0].req.send(message_x_json.encode('utf-8'))
             data_operation = Charts[0].req.recv()
-            Open_Time_ToChart(data_operation,Charts[0])
+            Open_Time_To_Existing_Chart(data_operation, Charts[0])
 
 
 
@@ -46,7 +46,7 @@ class StrategyFXTickRandom(StrategyFX):
             message_x_json = json.dumps(message_x)
             Charts[0].req.send(message_x_json.encode('utf-8'))
             data_operation = Charts[0].req.recv()
-            Open_Time_ToChart(data_operation, Charts[0])
+            Open_Time_To_Existing_Chart(data_operation, Charts[0])
 
 
         return my_json

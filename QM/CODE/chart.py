@@ -9,6 +9,7 @@ import pandas as pd
 import zmq
 import zmq.asyncio
 from BIGAISCHOOL.LIBRARY.DATALAKE.TIMESERIES.Utils.Credentials_Utils import exampleAuth
+from BIGAISCHOOL.LIBRARY.DATALAKE.TIMESERIES.Utils.Data_Utils_Time_ToChart import Open_Time_To_New_Chart, Close_Time_To_New_Chart
 import fxcmpy
 import socket
 from datetime import datetime
@@ -35,8 +36,8 @@ class ChartFX(Chart):
         self.Symbol = data["Symbol"]
         self.Period = data["Period"]
         self.WindowID = data["WindowID"]
-        self.OpenTimes = list()
-        self.ClosingTimes = list()
+        self.OpenTimes = Open_Time_To_New_Chart()
+        self.ClosingTimes = Close_Time_To_New_Chart()
         self.subport = subport
         self.reqport = reqport
         self.context = zmq.Context()
