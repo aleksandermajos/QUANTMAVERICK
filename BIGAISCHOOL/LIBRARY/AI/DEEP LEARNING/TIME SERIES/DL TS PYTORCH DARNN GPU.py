@@ -2,9 +2,9 @@ import sys, os
 parent_dir = os.getcwd()
 path = os.path.dirname(parent_dir)
 sys.path.append(path)
-sys.path.append('/QM/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/ARCHITECTURES')
-sys.path.append('/QM/BIGAISCHOOL/MACHINE LEARNING/DEEP LEARNING/TRAINING')
-sys.path.append('/QM/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS')
+sys.path.append('/QM/BIGAISCHOOL/AI/DEEP LEARNING/ARCHITECTURES')
+sys.path.append('/QM/BIGAISCHOOL/AI/DEEP LEARNING/TRAINING')
+sys.path.append('/QM/BIGAISCHOOL/AI/PYTHON/VISUALIZATIONS')
 sys.path.append('/QM/DATA')
 from DARNN import DARNN
 from Train import Train_DARNN
