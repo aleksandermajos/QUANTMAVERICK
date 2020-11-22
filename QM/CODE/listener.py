@@ -17,7 +17,8 @@ class Listener:
         self.req = self.context.socket(zmq.REQ)
         self.Charts = list()
         self.TimeLine = pd.DataFrame()
-        self.Strategy = {"StrategyFXTickRandom": StrategyFXTickRandom("StrategyFXTickRandom")}
+        self.Strategy = {}
+        #self.Strategy = {"StrategyFXTickRandom": StrategyFXTickRandom("StrategyFXTickRandom")}
         '''
         self.TimeLine = pd()
         okoi = 5
