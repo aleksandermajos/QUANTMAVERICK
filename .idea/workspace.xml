@@ -19,32 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI COURSE DL START">
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/ACTIVATION FUNCTION-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/DATA BATCHES-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/FIRST LAYER_2-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/LAYER USING NUMPY-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/MULTI LAYER 2-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/MULTI LAYER-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/SINGLE NEURON USING NUMPY-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/SPIRAL DATASET-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/ACTIVATION FUNCTION.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/DATA BATCHES.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/FIRST LAYER_2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/LAYER USING NUMPY.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/Layer_Dense.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/MULTI LAYER 2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/MULTI LAYER.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/SINGLE NEURON USING NUMPY.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/SPIRAL DATASET.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.PYTHON/.ipynb_checkpoints/ARRAY SHAPE-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.PYTHON/.ipynb_checkpoints/DOT PRODUCT-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.PYTHON/ARRAY SHAPE.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.PYTHON/DOT PRODUCT.ipynb" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI COURSE DL1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/TIMELINE_EURUSD.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/TIMELINE_EURUSD.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/CODE/listener.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/CODE/listener.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Data_Utils_Time_ToChart.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Data_Utils_Time_ToChart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/CODE/chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/CODE/chart.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,7 +256,8 @@
       <workItem from="1605951161861" duration="2834000" />
       <workItem from="1606030397810" duration="1398000" />
       <workItem from="1606056984601" duration="992000" />
-      <workItem from="1606111810528" duration="5024000" />
+      <workItem from="1606111810528" duration="5071000" />
+      <workItem from="1606125728368" duration="6758000" />
     </task>
     <task id="LOCAL-00001" summary="Synchronize with Github">
       <created>1573919712467</created>
@@ -503,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606040232361</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="BIGAI COURSE DL1">
+      <created>1606125681710</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1606125681710</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +543,8 @@
     <MESSAGE value="BIGAI COURSE" />
     <MESSAGE value="BIGAI COURSES" />
     <MESSAGE value="BIGAI COURSE DL START" />
-    <option name="LAST_COMMIT_MESSAGE" value="BIGAI COURSE DL START" />
+    <MESSAGE value="BIGAI COURSE DL1" />
+    <option name="LAST_COMMIT_MESSAGE" value="BIGAI COURSE DL1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1035" y="524" key="#Notifications" timestamp="1606040364100">
@@ -578,55 +566,60 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="960" y="436" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1598697351496" />
-    <state x="965" y="726" width="1080" height="674" key="#xdebugger.evaluate" timestamp="1603201278107">
+    <state x="1299" y="726" width="1080" height="674" key="#xdebugger.evaluate" timestamp="1606129276398">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="965" y="726" width="1080" height="674" key="#xdebugger.evaluate/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603201278107" />
-    <state width="2517" height="540" key="GridCell.Tab.0.bottom" timestamp="1606058611638">
+    <state x="1299" y="726" key="#xdebugger.evaluate/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606129276398" />
+    <state width="2517" height="399" key="GridCell.Tab.0.bottom" timestamp="1606132512691">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="540" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2517" height="540" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606058611638" />
-    <state width="2517" height="540" key="GridCell.Tab.0.center" timestamp="1606058611638">
+    <state width="2517" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606132512691" />
+    <state width="2517" height="399" key="GridCell.Tab.0.center" timestamp="1606132512691">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="540" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2517" height="540" key="GridCell.Tab.0.center/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606058611638" />
-    <state width="2517" height="540" key="GridCell.Tab.0.left" timestamp="1606058611638">
+    <state width="2517" height="399" key="GridCell.Tab.0.center/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606132512691" />
+    <state width="2517" height="399" key="GridCell.Tab.0.left" timestamp="1606132512691">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="540" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2517" height="540" key="GridCell.Tab.0.left/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606058611638" />
-    <state width="2517" height="540" key="GridCell.Tab.0.right" timestamp="1606058611638">
+    <state width="2517" height="399" key="GridCell.Tab.0.left/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606132512691" />
+    <state width="2517" height="399" key="GridCell.Tab.0.right" timestamp="1606132512691">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="540" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2517" height="540" key="GridCell.Tab.0.right/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606058611638" />
-    <state width="2517" height="456" key="GridCell.Tab.1.bottom" timestamp="1603376865507">
+    <state width="2517" height="399" key="GridCell.Tab.0.right/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606132512691" />
+    <state width="2517" height="399" key="GridCell.Tab.1.bottom" timestamp="1606132459702">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="456" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2517" height="456" key="GridCell.Tab.1.center" timestamp="1603376865507">
+    <state width="2517" height="399" key="GridCell.Tab.1.bottom/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606132459702" />
+    <state width="2517" height="399" key="GridCell.Tab.1.center" timestamp="1606132459702">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="456" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2517" height="456" key="GridCell.Tab.1.left" timestamp="1603376865507">
+    <state width="2517" height="399" key="GridCell.Tab.1.center/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606132459702" />
+    <state width="2517" height="399" key="GridCell.Tab.1.left" timestamp="1606132459702">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="456" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2517" height="456" key="GridCell.Tab.1.right" timestamp="1603376865507">
+    <state width="2517" height="399" key="GridCell.Tab.1.left/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606132459702" />
+    <state width="2517" height="399" key="GridCell.Tab.1.right" timestamp="1606132459702">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="456" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
+    <state width="2517" height="399" key="GridCell.Tab.1.right/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606132459702" />
     <state x="573" y="214" width="1022" height="737" key="SettingsEditor" timestamp="1603084382043">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="573" y="214" key="SettingsEditor/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603084382043" />
-    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1606040240039">
+    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1606125692319">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1605773045793" />
-    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606040240039" />
+    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606125692319" />
     <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1601898885603">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -740,9 +733,9 @@
           <option name="timeStamp" value="230" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/QM/CODE/chart.py</url>
-          <line>128</line>
-          <option name="timeStamp" value="231" />
+          <url>file://$PROJECT_DIR$/QM/CODE/listener.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="237" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -784,6 +777,6 @@
     <SUITE FILE_PATH="coverage/QUANTMAVERICK$Start.coverage" NAME="Start Coverage Results" MODIFIED="1601887996542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
     <SUITE FILE_PATH="coverage/QUANTMAVERICK$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1603362485404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
     <SUITE FILE_PATH="coverage/QUANTMAVERICK$listener.coverage" NAME="listener Coverage Results" MODIFIED="1601892758909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
-    <SUITE FILE_PATH="coverage/QUANTMAVERICK$start.coverage" NAME="start Coverage Results" MODIFIED="1606057077616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
+    <SUITE FILE_PATH="coverage/QUANTMAVERICK$start.coverage" NAME="start Coverage Results" MODIFIED="1606132449885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
   </component>
 </project>

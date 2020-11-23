@@ -50,3 +50,14 @@ def Close_Time_To_New_Chart():
         return li
     else:
         return list()
+
+def Average_OpenTimes(Chart):
+    if Chart.OpenTimes:
+        return sum(Chart.OpenTimes) / len(Chart.OpenTimes)
+    else: return None
+
+def Average_CloseTimes(Chart):
+    if Chart.ClosingTimes:
+        return sum(Chart.ClosingTimes) / len(Chart.ClosingTimes)
+    else:
+        return None

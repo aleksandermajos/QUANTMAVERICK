@@ -10,6 +10,7 @@ import zmq
 import zmq.asyncio
 from BIGAISCHOOL.LIBRARY.DATALAKE.TIMESERIES.Utils.Credentials_Utils import exampleAuth
 from BIGAISCHOOL.LIBRARY.DATALAKE.TIMESERIES.Utils.Data_Utils_Time_ToChart import Open_Time_To_New_Chart, Close_Time_To_New_Chart
+from BIGAISCHOOL.LIBRARY.DATALAKE.TIMESERIES.Utils.Data_Utils_Time_ToChart import Average_OpenTimes, Average_CloseTimes
 import fxcmpy
 import socket
 from datetime import datetime
@@ -37,7 +38,9 @@ class ChartFX(Chart):
         self.Period = data["Period"]
         self.WindowID = data["WindowID"]
         self.OpenTimes = Open_Time_To_New_Chart()
+        self.Average_OpenTimes = Average_OpenTimes(self)
         self.ClosingTimes = Close_Time_To_New_Chart()
+        self.Average_CloseTimes = Average_CloseTimes(self)
         self.subport = subport
         self.reqport = reqport
         self.context = zmq.Context()
@@ -87,7 +90,9 @@ class ChartFX(Chart):
         self.RecentTicks = pd.DataFrame()
         self.actuall = pd.DataFrame()
         self.previous = pd.DataFrame()
-        self.ap_diff = 0
+        self.Bid_diff = 0
+        self.Ask_diff = 0
+
 
         oko=5
 
@@ -105,9 +110,9 @@ class ChartFX(Chart):
         creation_terminal_delta = terminal_time - creation_time
         current_terminal_dalta = current_time - terminal_time
         creation_current_delta = current_time - creation_time
-        df.insert(3, 'X', creation_terminal_delta.delta/1000000)
-        df.insert(4, 'Y', current_terminal_dalta.delta/1000000)
-        df.insert(5, 'Z', creation_current_delta.delta/1000000)
+        df.insert(3, 'Creation-Terminal Time', creation_terminal_delta.delta/1000000)
+        df.insert(4, 'Terminal-Current Time', current_terminal_dalta.delta/1000000)
+        df.insert(5, 'Creation-Current Time', creation_current_delta.delta/1000000)
         if "X-Trade Brokers DM SA" in data["Broker"] or "OANDA DIVISION1" in data["Broker"] \
                 or "MetaQuotes Software Corp." in data["Broker"] or "Dom Maklerski Banku Ochrony Srodowiska S.A." in data["Broker"]\
                 or "Dom Maklerski mBanku" in data["Broker"] or "B.I.C. Markets Co., Ltd." in data["Broker"]\
@@ -124,7 +129,14 @@ class ChartFX(Chart):
             df["DR"] = "DEMO"
         df["Terminal"] = data["Terminal"]
         df["Protocol"] = "ZMQ"
+        df["Period"] = data["Period"]
         df["Symbol"] = data["Symbol"]
+        df["Ask_Diff"] = 0.0
+        df["Bid_Diff"] = 0.0
+        df["UP"] = 0
+        df["Spread"] = self.instrument.spread
+        df["OpeningTime"] = self.Average_OpenTimes
+        df["ClosingTime"] = self.Average_CloseTimes
         if self.RecentTicks.empty:
             self.RecentTicks = df
         else:
@@ -132,7 +144,14 @@ class ChartFX(Chart):
             if self.RecentTicks.shape[0] > 1:
                 self.actuall = self.RecentTicks.iloc[-1:]
                 self.previous = self.RecentTicks.iloc[-2:-1]
-                self.ap_diff = self.actuall["Bid"].iloc[0]-self.previous["Bid"].iloc[0]
+                self.Bid_diff = self.actuall["Bid"].iloc[0]-self.previous["Bid"].iloc[0]
+                self.Ask_diff = self.actuall["Ask"].iloc[0] - self.previous["Ask"].iloc[0]
+                df["Ask_Diff"] = self.Ask_diff
+                df["Bid_Diff"] = self.Bid_diff
+        if self.Ask_diff >0 and self.Bid_diff > 0:
+            df["UP"] = 1
+        if self.Ask_diff < 0 and self.Bid_diff < 0:
+            df["UP"] = -1
         return df
 
 
