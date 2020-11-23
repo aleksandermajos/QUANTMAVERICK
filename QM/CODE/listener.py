@@ -68,7 +68,7 @@ class Listener:
                     if x.WindowID == WindowID:
                         exist = True
                         data = x.GetData(my_json)
-                        self.Strategy['StrategyFXTickRandom'].Decide(self.Charts)
+                        #self.Strategy['StrategyFXTickRandom'].Decide(self.Charts)
                         if self.TimeLine.empty:
                             self.TimeLine = data
                         else:
