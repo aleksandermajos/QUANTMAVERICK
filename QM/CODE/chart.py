@@ -37,9 +37,9 @@ class ChartFX(Chart):
         self.Symbol = data["Symbol"]
         self.Period = data["Period"]
         self.WindowID = data["WindowID"]
-        self.OpenTimes = Open_Time_To_New_Chart()
+        self.OpenTimes = Open_Time_To_New_Chart(self)
         self.Average_OpenTimes = Average_OpenTimes(self)
-        self.ClosingTimes = Close_Time_To_New_Chart()
+        self.ClosingTimes = Close_Time_To_New_Chart(self)
         self.Average_CloseTimes = Average_CloseTimes(self)
         self.subport = subport
         self.reqport = reqport

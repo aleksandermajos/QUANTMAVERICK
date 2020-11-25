@@ -18,7 +18,7 @@ class Listener:
         self.Charts = list()
         self.TimeLine = pd.DataFrame()
         self.Strategy = {}
-        #self.Strategy = {"StrategyFXTickRandom": StrategyFXTickRandom("StrategyFXTickRandom")}
+        self.Strategy = {"StrategyFXTickRandom": StrategyFXTickRandom("StrategyFXTickRandom")}
         '''
         self.TimeLine = pd()
         okoi = 5
@@ -70,10 +70,16 @@ class Listener:
                         data = x.GetData(my_json)
                         #self.Strategy['StrategyFXTickRandom'].Decide(self.Charts)
                         if self.TimeLine.empty:
-                            self.TimeLine = data
+                            data_path = Path(Path(
+                                __file__).resolve().parent.parent.parent) / "BIGAISCHOOL\LIBRARY\DATALAKE\DATA\TIMELINE_EURUSD.csv"
+                            data_path_last = fspath(data_path)
+                            df_from_file = pd.read_csv(data_path_last)
+                            df_from_file.drop('Unnamed: 0',
+                                    axis='columns', inplace=True)
+                            self.TimeLine = df_from_file
                         else:
                             self.TimeLine = self.TimeLine.append(data, ignore_index=True)
-                        if self.TimeLine.shape[0] %100 == 0:
+                        if self.TimeLine.shape[0] %1000 == 0:
                             data_path = Path(Path(
                                 __file__).resolve().parent.parent.parent) / "BIGAISCHOOL\LIBRARY\DATALAKE\DATA\TIMELINE_EURUSD.csv"
                             data_path_last = fspath(data_path)

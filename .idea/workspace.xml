@@ -19,15 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="QM FATDATA">
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/Draw Activation Functions-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/MULTILAYER WITH ACTIVATIONS-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/Draw Activation Functions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/MULTILAYER WITH ACTIVATIONS.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI ACTIVATIONS FUNCTIONS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/BROKERS_OPEN_TIMES.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/BROKERS_OPEN_TIMES.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/TIMELINE_EURUSD.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/TIMELINE_EURUSD.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Data_Utils_Time_ToChart.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Data_Utils_Time_ToChart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Data_Utils_Write_Brokers_Time.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Data_Utils_Write_Brokers_Time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/CODE/chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/CODE/chart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/CODE/listener.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/CODE/listener.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +263,7 @@
       <workItem from="1606111810528" duration="5071000" />
       <workItem from="1606125728368" duration="6977000" />
       <workItem from="1606135320635" duration="5308000" />
-      <workItem from="1606200232959" duration="1285000" />
+      <workItem from="1606200232959" duration="19580000" />
     </task>
     <task id="LOCAL-00001" summary="Synchronize with Github">
       <created>1573919712467</created>
@@ -503,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606132708782</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="BIGAI ACTIVATIONS FUNCTIONS">
+      <created>1606208613880</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1606208613880</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +565,8 @@
     <MESSAGE value="BIGAI COURSE DL START" />
     <MESSAGE value="BIGAI COURSE DL1" />
     <MESSAGE value="QM FATDATA" />
-    <option name="LAST_COMMIT_MESSAGE" value="QM FATDATA" />
+    <MESSAGE value="BIGAI ACTIVATIONS FUNCTIONS" />
+    <option name="LAST_COMMIT_MESSAGE" value="BIGAI ACTIVATIONS FUNCTIONS" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1035" y="524" key="#Notifications" timestamp="1606040364100">
@@ -580,60 +588,60 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="960" y="436" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1598697351496" />
-    <state x="1299" y="726" width="1080" height="674" key="#xdebugger.evaluate" timestamp="1606129276398">
+    <state x="1299" y="726" width="1080" height="674" key="#xdebugger.evaluate" timestamp="1606218591243">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="965" y="726" width="1080" height="674" key="#xdebugger.evaluate/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603201278107" />
-    <state x="1299" y="726" key="#xdebugger.evaluate/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606129276398" />
-    <state width="2517" height="536" key="GridCell.Tab.0.bottom" timestamp="1606142219926">
+    <state x="1299" y="726" key="#xdebugger.evaluate/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606218591243" />
+    <state width="2517" height="58" key="GridCell.Tab.0.bottom" timestamp="1606223953257">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="540" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2517" height="536" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606142219926" />
-    <state width="2517" height="536" key="GridCell.Tab.0.center" timestamp="1606142219925">
+    <state width="2517" height="58" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606223953257" />
+    <state width="2517" height="58" key="GridCell.Tab.0.center" timestamp="1606223953256">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="540" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2517" height="536" key="GridCell.Tab.0.center/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606142219925" />
-    <state width="2517" height="536" key="GridCell.Tab.0.left" timestamp="1606142219925">
+    <state width="2517" height="58" key="GridCell.Tab.0.center/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606223953256" />
+    <state width="2517" height="58" key="GridCell.Tab.0.left" timestamp="1606223953256">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="540" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2517" height="536" key="GridCell.Tab.0.left/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606142219925" />
-    <state width="2517" height="536" key="GridCell.Tab.0.right" timestamp="1606142219925">
+    <state width="2517" height="58" key="GridCell.Tab.0.left/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606223953256" />
+    <state width="2517" height="58" key="GridCell.Tab.0.right" timestamp="1606223953257">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="540" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2517" height="536" key="GridCell.Tab.0.right/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606142219925" />
-    <state width="2517" height="536" key="GridCell.Tab.1.bottom" timestamp="1606142219927">
+    <state width="2517" height="58" key="GridCell.Tab.0.right/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606223953257" />
+    <state width="2517" height="58" key="GridCell.Tab.1.bottom" timestamp="1606223953258">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="456" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2517" height="536" key="GridCell.Tab.1.bottom/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606142219927" />
-    <state width="2517" height="536" key="GridCell.Tab.1.center" timestamp="1606142219927">
+    <state width="2517" height="58" key="GridCell.Tab.1.bottom/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606223953258" />
+    <state width="2517" height="58" key="GridCell.Tab.1.center" timestamp="1606223953257">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="456" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2517" height="536" key="GridCell.Tab.1.center/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606142219927" />
-    <state width="2517" height="536" key="GridCell.Tab.1.left" timestamp="1606142219927">
+    <state width="2517" height="58" key="GridCell.Tab.1.center/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606223953257" />
+    <state width="2517" height="58" key="GridCell.Tab.1.left" timestamp="1606223953257">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="456" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2517" height="536" key="GridCell.Tab.1.left/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606142219927" />
-    <state width="2517" height="536" key="GridCell.Tab.1.right" timestamp="1606142219927">
+    <state width="2517" height="58" key="GridCell.Tab.1.left/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606223953257" />
+    <state width="2517" height="58" key="GridCell.Tab.1.right" timestamp="1606223953257">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="456" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2517" height="536" key="GridCell.Tab.1.right/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606142219927" />
+    <state width="2517" height="58" key="GridCell.Tab.1.right/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606223953257" />
     <state x="573" y="214" width="1022" height="737" key="SettingsEditor" timestamp="1603084382043">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="573" y="214" key="SettingsEditor/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603084382043" />
-    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1606132716664">
+    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1606208632825">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1605773045793" />
-    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606132716664" />
+    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606208632825" />
     <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1601898885603">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -736,16 +744,6 @@
           <line>12</line>
           <option name="timeStamp" value="219" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/QM/CODE/strategy.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="229" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/QM/CODE/strategy.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="230" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -786,6 +784,6 @@
     <SUITE FILE_PATH="coverage/QUANTMAVERICK$Start.coverage" NAME="Start Coverage Results" MODIFIED="1601887996542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
     <SUITE FILE_PATH="coverage/QUANTMAVERICK$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1603362485404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
     <SUITE FILE_PATH="coverage/QUANTMAVERICK$listener.coverage" NAME="listener Coverage Results" MODIFIED="1601892758909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
-    <SUITE FILE_PATH="coverage/QUANTMAVERICK$start.coverage" NAME="start Coverage Results" MODIFIED="1606137272123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
+    <SUITE FILE_PATH="coverage/QUANTMAVERICK$start.coverage" NAME="start Coverage Results" MODIFIED="1606222714629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
   </component>
 </project>
