@@ -20,11 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="DATA GENERATED THROUGH 12 HOURS">
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/ACCURACY CALCULATION-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/CATEGORICAL CROSS ENTROPY-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/ACCURACY CALCULATION.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/CATEGORICAL CROSS ENTROPY.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/DERIVATIVES-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/PARTIAL DERIVATIVE-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/DERIVATIVES.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/PARTIAL DERIVATIVE.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/QUANTMAVERICK PROJECT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/QUANTMAVERICK PROJECT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/TIMELINE_EURUSD.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/TIMELINE_EURUSD.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +74,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -600,50 +605,55 @@
     </state>
     <state x="965" y="726" width="1080" height="674" key="#xdebugger.evaluate/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603201278107" />
     <state x="1299" y="726" key="#xdebugger.evaluate/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606218591243" />
-    <state width="2517" height="542" key="GridCell.Tab.0.bottom" timestamp="1606305015820">
+    <state x="1456" y="361" key="FileChooserDialogImpl" timestamp="1606480844724">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1456" y="361" key="FileChooserDialogImpl/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606480844724" />
+    <state width="2539" height="550" key="GridCell.Tab.0.bottom" timestamp="1606482431062">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="540" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2517" height="542" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606305015820" />
-    <state width="2517" height="542" key="GridCell.Tab.0.center" timestamp="1606305015820">
+    <state width="2539" height="550" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
+    <state width="2539" height="550" key="GridCell.Tab.0.center" timestamp="1606482431062">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="540" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2517" height="542" key="GridCell.Tab.0.center/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606305015820" />
-    <state width="2517" height="542" key="GridCell.Tab.0.left" timestamp="1606305015820">
+    <state width="2539" height="550" key="GridCell.Tab.0.center/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
+    <state width="2539" height="550" key="GridCell.Tab.0.left" timestamp="1606482431062">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="540" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2517" height="542" key="GridCell.Tab.0.left/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606305015820" />
-    <state width="2517" height="542" key="GridCell.Tab.0.right" timestamp="1606305015820">
+    <state width="2539" height="550" key="GridCell.Tab.0.left/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
+    <state width="2539" height="550" key="GridCell.Tab.0.right" timestamp="1606482431062">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="540" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2517" height="542" key="GridCell.Tab.0.right/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606305015820" />
-    <state width="2517" height="542" key="GridCell.Tab.1.bottom" timestamp="1606305015821">
+    <state width="2539" height="550" key="GridCell.Tab.0.right/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
+    <state width="2539" height="550" key="GridCell.Tab.1.bottom" timestamp="1606482431062">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="456" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2517" height="542" key="GridCell.Tab.1.bottom/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606305015821" />
-    <state width="2517" height="542" key="GridCell.Tab.1.center" timestamp="1606305015821">
+    <state width="2539" height="550" key="GridCell.Tab.1.bottom/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
+    <state width="2539" height="550" key="GridCell.Tab.1.center" timestamp="1606482431062">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="456" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2517" height="542" key="GridCell.Tab.1.center/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606305015821" />
-    <state width="2517" height="542" key="GridCell.Tab.1.left" timestamp="1606305015821">
+    <state width="2539" height="550" key="GridCell.Tab.1.center/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
+    <state width="2539" height="550" key="GridCell.Tab.1.left" timestamp="1606482431062">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="456" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2517" height="542" key="GridCell.Tab.1.left/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606305015821" />
-    <state width="2517" height="542" key="GridCell.Tab.1.right" timestamp="1606305015821">
+    <state width="2539" height="550" key="GridCell.Tab.1.left/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
+    <state width="2539" height="550" key="GridCell.Tab.1.right" timestamp="1606482431062">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="456" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2517" height="542" key="GridCell.Tab.1.right/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606305015821" />
-    <state x="573" y="214" width="1022" height="737" key="SettingsEditor" timestamp="1603084382043">
+    <state width="2539" height="550" key="GridCell.Tab.1.right/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
+    <state x="573" y="214" width="1022" height="737" key="SettingsEditor" timestamp="1606482319198">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="573" y="214" key="SettingsEditor/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603084382043" />
+    <state x="573" y="214" key="SettingsEditor/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482319198" />
     <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1606294186841">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -769,28 +779,5 @@
         <watch expression="Charts[0]" language="Python" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/quantmaverick$test.coverage" NAME="test Coverage Results" MODIFIED="1592325272448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PLATFORMS/MT45/MT5_PYTHON" />
-    <SUITE FILE_PATH="coverage/quantmaverick$DataGenerator.coverage" NAME="DataGenerator Coverage Results" MODIFIED="1597078139182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/DATA/Utils" />
-    <SUITE FILE_PATH="coverage/QUANTMAVERICK$chart.coverage" NAME="chart Coverage Results" MODIFIED="1601899134951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
-    <SUITE FILE_PATH="coverage/QUANTMAVERICK$DETECT_GPU__1_.coverage" NAME="DETECT GPU (1) Coverage Results" MODIFIED="1604426149061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/FRAMEWORKS/PYTORCH" />
-    <SUITE FILE_PATH="coverage/quantmaverick$MULTIGPUTEST.coverage" NAME="MULTIGPUTEST Coverage Results" MODIFIED="1596548990206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/DEEPLEARNING" />
-    <SUITE FILE_PATH="coverage/quantmaverick$DSTP_RNN.coverage" NAME="DSTP_RNN Coverage Results" MODIFIED="1597075340756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES" />
-    <SUITE FILE_PATH="coverage/quantmaverick$CartPole_Random.coverage" NAME="CartPole_Random Coverage Results" MODIFIED="1575096689778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/DL/RL" />
-    <SUITE FILE_PATH="coverage/quantmaverick$Listener.coverage" NAME="Listener Coverage Results" MODIFIED="1587072236903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM" />
-    <SUITE FILE_PATH="coverage/quantmaverick$Start.coverage" NAME="Start Coverage Results" MODIFIED="1597056322765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM" />
-    <SUITE FILE_PATH="coverage/QUANTMAVERICK$MULTIGPU.coverage" NAME="MULTIGPU Coverage Results" MODIFIED="1604414601484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MACHINE LEARNING/DEEP LEARNING/FRAMEWORKS/PYTORCH" />
-    <SUITE FILE_PATH="coverage/quantmaverick$DARNN.coverage" NAME="DARNN Coverage Results" MODIFIED="1597084831206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES" />
-    <SUITE FILE_PATH="coverage/quantmaverick$ML_VIS_PLOTLY_CANDLE_CHART.coverage" NAME="ML VIS PLOTLY CANDLE CHART Coverage Results" MODIFIED="1597134072875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/BIGAISCHOOL/MACHINE LEARNING/PYTHON/VISUALIZATIONS" />
-    <SUITE FILE_PATH="coverage/QUANTMAVERICK$learning.coverage" NAME="learning Coverage Results" MODIFIED="1603014055697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TEST" />
-    <SUITE FILE_PATH="coverage/quantmaverick$EXPERIMENT__1_.coverage" NAME="EXPERIMENT (1) Coverage Results" MODIFIED="1597133536390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES" />
-    <SUITE FILE_PATH="coverage/quantmaverick$DataGenerator__1_.coverage" NAME="DataGenerator (1) Coverage Results" MODIFIED="1597079621670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/DATA" />
-    <SUITE FILE_PATH="coverage/quantmaverick$MT45_OANDA_FXCM.coverage" NAME="MT45_OANDA_FXCM Coverage Results" MODIFIED="1575392642117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
-    <SUITE FILE_PATH="coverage/quantmaverick$PYTORCH_DARNN_GPU.coverage" NAME="PYTORCH DARNN GPU Coverage Results" MODIFIED="1597152758936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/BIGAISCHOOL/DEEP LEARNING/TIME SERIES" />
-    <SUITE FILE_PATH="coverage/QUANTMAVERICK$Start.coverage" NAME="Start Coverage Results" MODIFIED="1601887996542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
-    <SUITE FILE_PATH="coverage/QUANTMAVERICK$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1603362485404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
-    <SUITE FILE_PATH="coverage/QUANTMAVERICK$listener.coverage" NAME="listener Coverage Results" MODIFIED="1601892758909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
-    <SUITE FILE_PATH="coverage/QUANTMAVERICK$start.coverage" NAME="start Coverage Results" MODIFIED="1606222714629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QM/CODE" />
   </component>
 </project>
