@@ -19,17 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="DATA GENERATED THROUGH 12 HOURS">
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/DERIVATIVES-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/PARTIAL DERIVATIVE-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/DERIVATIVES.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/PARTIAL DERIVATIVE.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/QUANTMAVERICK PROJECT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/QUANTMAVERICK PROJECT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI DERIVATIVES">
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_EURUSD_H1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_EURUSD_H12_CLASS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_EURUSD_M15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/GenerateDataOanda.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/TIMELINE_EURUSD.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/TIMELINE_EURUSD.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/CODE/listener.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/CODE/listener.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +62,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/PythonForProgrammers-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -92,7 +88,28 @@
       <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\QM" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.GenerateDataOanda">
+    <configuration name="GenerateDataOanda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QUANTMAVERICK PROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/GenerateDataOanda.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QUANTMAVERICK PROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,6 +156,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GenerateDataOanda" />
         <item itemvalue="Python.start" />
       </list>
     </recent_temporary>
@@ -521,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606294179124</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="BIGAI DERIVATIVES">
+      <created>1606550135599</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1606550135599</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -578,96 +603,8 @@
     <MESSAGE value="QM FATDATA" />
     <MESSAGE value="BIGAI ACTIVATIONS FUNCTIONS" />
     <MESSAGE value="DATA GENERATED THROUGH 12 HOURS" />
-    <option name="LAST_COMMIT_MESSAGE" value="DATA GENERATED THROUGH 12 HOURS" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1035" y="524" key="#Notifications" timestamp="1606472724234">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1035" y="524" key="#Notifications/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1605560863035" />
-    <state x="1035" y="524" key="#Notifications/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606472724234" />
-    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605952294503">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601890615263" />
-    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1605952294503" />
-    <state x="1059" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606122463908">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1059" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1605346453733" />
-    <state x="1059" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606122463908" />
-    <state x="960" y="436" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598697351496">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="960" y="436" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1598697351496" />
-    <state x="1299" y="726" width="1080" height="674" key="#xdebugger.evaluate" timestamp="1606218591243">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="965" y="726" width="1080" height="674" key="#xdebugger.evaluate/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603201278107" />
-    <state x="1299" y="726" key="#xdebugger.evaluate/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606218591243" />
-    <state x="1456" y="361" key="FileChooserDialogImpl" timestamp="1606480844724">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1456" y="361" key="FileChooserDialogImpl/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606480844724" />
-    <state width="2539" height="550" key="GridCell.Tab.0.bottom" timestamp="1606482431062">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="540" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2539" height="550" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
-    <state width="2539" height="550" key="GridCell.Tab.0.center" timestamp="1606482431062">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="540" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2539" height="550" key="GridCell.Tab.0.center/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
-    <state width="2539" height="550" key="GridCell.Tab.0.left" timestamp="1606482431062">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="540" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2539" height="550" key="GridCell.Tab.0.left/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
-    <state width="2539" height="550" key="GridCell.Tab.0.right" timestamp="1606482431062">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="540" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1604427249026" />
-    <state width="2539" height="550" key="GridCell.Tab.0.right/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
-    <state width="2539" height="550" key="GridCell.Tab.1.bottom" timestamp="1606482431062">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="456" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2539" height="550" key="GridCell.Tab.1.bottom/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
-    <state width="2539" height="550" key="GridCell.Tab.1.center" timestamp="1606482431062">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="456" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2539" height="550" key="GridCell.Tab.1.center/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
-    <state width="2539" height="550" key="GridCell.Tab.1.left" timestamp="1606482431062">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="456" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2539" height="550" key="GridCell.Tab.1.left/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
-    <state width="2539" height="550" key="GridCell.Tab.1.right" timestamp="1606482431062">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="456" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603376865507" />
-    <state width="2539" height="550" key="GridCell.Tab.1.right/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482431062" />
-    <state x="573" y="214" width="1022" height="737" key="SettingsEditor" timestamp="1606482319198">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="573" y="214" key="SettingsEditor/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1603084382043" />
-    <state x="573" y="214" key="SettingsEditor/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606482319198" />
-    <state x="720" y="349" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1606294186841">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1605773045793" />
-    <state x="720" y="349" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606294186841" />
-    <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1601898885603">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1288" height="708" key="XDebugger.FullValuePopup/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1601898885603" />
-    <state x="959" y="592" width="482" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606468039433">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="959" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1605096700637" />
-    <state x="959" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.3.1920.1040@0.0.2560.1400" timestamp="1606468039433" />
+    <MESSAGE value="BIGAI DERIVATIVES" />
+    <option name="LAST_COMMIT_MESSAGE" value="BIGAI DERIVATIVES" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -760,6 +697,21 @@
           <url>file://$PROJECT_DIR$/TEST/learning.py</url>
           <line>12</line>
           <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/GenerateDataOanda.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/GenerateDataOanda.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/GenerateDataOanda.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="227" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

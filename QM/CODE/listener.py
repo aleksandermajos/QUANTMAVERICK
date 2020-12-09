@@ -6,6 +6,7 @@ import pandas as pd
 import json
 from pathlib import Path
 from os import fspath
+import os.path
 
 
 class Listener:
@@ -71,17 +72,18 @@ class Listener:
                         #self.Strategy['StrategyFXTickRandom'].Decide(self.Charts)
                         if self.TimeLine.empty:
                             data_path = Path(Path(
-                                __file__).resolve().parent.parent.parent) / "BIGAISCHOOL\LIBRARY\DATALAKE\DATA\TIMELINE_EURUSD.csv"
+                                __file__).resolve().parent.parent.parent) / "BIGAISCHOOL\LIBRARY\DATALAKE\DATA\TIMELINE.csv"
                             data_path_last = fspath(data_path)
-                            df_from_file = pd.read_csv(data_path_last)
-                            df_from_file.drop('Unnamed: 0',
-                                    axis='columns', inplace=True)
-                            self.TimeLine = df_from_file
+                            if os.path.isfile(data_path_last):
+                                df_from_file = pd.read_csv(data_path_last)
+                                df_from_file.drop('Unnamed: 0',axis='columns', inplace=True)
+                                self.TimeLine = df_from_file
+                            else: self.TimeLine = data
                         else:
                             self.TimeLine = self.TimeLine.append(data, ignore_index=True)
                         if self.TimeLine.shape[0] %1000 == 0:
                             data_path = Path(Path(
-                                __file__).resolve().parent.parent.parent) / "BIGAISCHOOL\LIBRARY\DATALAKE\DATA\TIMELINE_EURUSD.csv"
+                                __file__).resolve().parent.parent.parent) / "BIGAISCHOOL\LIBRARY\DATALAKE\DATA\TIMELINE.csv"
                             data_path_last = fspath(data_path)
                             self.TimeLine.to_csv(data_path_last)
                         print(data.to_string(header=False,index=False))
