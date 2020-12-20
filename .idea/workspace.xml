@@ -19,42 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="QM OANDA DATA GENERATOR">
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_AUD_USD_H1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_AUD_USD_H12.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_AUD_USD_H4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_AUD_USD_M15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_AUD_USD_M30.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_EUR_USD_H1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_EUR_USD_H12.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_EUR_USD_H4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_EUR_USD_M15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_EUR_USD_M30.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_GBP_USD_H1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_GBP_USD_H12.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_GBP_USD_H4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_GBP_USD_M15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_GBP_USD_M30.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_CAD_H1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_CAD_H12.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_CAD_H4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_CAD_M15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_CAD_M30.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_CHF_H1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_CHF_H12.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_CHF_H4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_CHF_M15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_CHF_M30.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_JPY_H1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_JPY_H12.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_JPY_H4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_JPY_M15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_USD_JPY_M30.csv" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="OANDA DATA GENERATED">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_EURUSD_H1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_EURUSD_H12_CLASS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/OANDA_EURUSD_M15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/GenerateDataOanda.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/GenerateDataOanda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +84,7 @@
       <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\QM" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.GenerateDataOanda">
+  <component name="RunManager" selected="Python.start">
     <configuration name="GenerateDataOanda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QUANTMAVERICK PROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,8 +152,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.GenerateDataOanda" />
         <item itemvalue="Python.start" />
+        <item itemvalue="Python.GenerateDataOanda" />
       </list>
     </recent_temporary>
   </component>
@@ -582,7 +549,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607529705199</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="OANDA DATA GENERATED">
+      <created>1607966297981</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1607966297981</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -615,7 +589,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="enviroment" />
     <MESSAGE value="Data" />
     <MESSAGE value="env" />
     <MESSAGE value="ZmqMsg for MT5 Fixed" />
@@ -640,7 +613,8 @@
     <MESSAGE value="DATA GENERATED THROUGH 12 HOURS" />
     <MESSAGE value="BIGAI DERIVATIVES" />
     <MESSAGE value="QM OANDA DATA GENERATOR" />
-    <option name="LAST_COMMIT_MESSAGE" value="QM OANDA DATA GENERATOR" />
+    <MESSAGE value="OANDA DATA GENERATED" />
+    <option name="LAST_COMMIT_MESSAGE" value="OANDA DATA GENERATED" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
