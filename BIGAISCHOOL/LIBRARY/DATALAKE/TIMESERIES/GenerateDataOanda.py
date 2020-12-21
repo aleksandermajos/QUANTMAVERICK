@@ -16,4 +16,3 @@ for pair in pairs:
         data_df = Add_Diff_CO_Column(data_df)
         data_df = Add_Growing_Column(data_df)
         data_df.to_csv(data_path_last,index=False)
-oko = 5

@@ -19,9 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="OANDA DATA GENERATED">
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="QM FX BET POKER">
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/VISUALIZE/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/VISUALIZE/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP LEARNING/FRAMEWORKS/PYTORCH/DL DARNN GPU FW PYORCH.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP LEARNING/FRAMEWORKS/PYTORCH/DL TENSORBOARD PYTORCH.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP LEARNING/NLP/TRANSLATE/DL NLP TRANSLATION EN-FR.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP LEARNING/NLP/VOICE/TTS/DL NLP VOICE  TTS.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP LEARNING/NLP/WORDS/TeachMe.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP LEARNING/PREELIMINARIES/DL PRELIMINARY INSTALL SOFTWARE_AND_HARDWARE.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP LEARNING/TIME SERIES/DL TS PYTORCH DARNN GPU.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/OHLCPYTORCH.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/DataPreparator.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/DataPreparator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/GenerateDataOanda.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/GenerateDataOanda.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +68,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/PythonForProgrammers-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/VISUALIZE" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -70,21 +80,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\VISUALIZE" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\FROM ZERO TO HERO.PYTHON" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\AI\MACHINE LEARNING" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\FROM ZERO TO HERO.HEDGE FUND BASED ON REINFORCEMENT LEARNING" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\FROM ZERO TO HERO.HEDGE FUND BASED ON QUANTUM MACHINE LEARNING" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\DATALAKE\TIMESERIES" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\DATALAKE\TIMESERIES\Utils" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\QM\QMFX" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\MACHINE LEARNING\DEEP LEARNING" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\QM" />
-      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\BIGAISCHOOL" />
-      <recent name="C:\Users\hapir\PycharmProjects\quantmaverick\QM\QM" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.start">
+  <component name="RunManager" selected="Python.OHLCPYTORCH">
     <configuration name="GenerateDataOanda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QUANTMAVERICK PROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,6 +108,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/GenerateDataOanda.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OHLCPYTORCH" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QUANTMAVERICK PROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/OHLCPYTORCH.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,6 +183,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.OHLCPYTORCH" />
         <item itemvalue="Python.start" />
         <item itemvalue="Python.GenerateDataOanda" />
       </list>
@@ -556,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607966297981</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="QM FX BET POKER">
+      <created>1608462400901</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1608462400901</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -589,7 +628,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="Data" />
     <MESSAGE value="env" />
     <MESSAGE value="ZmqMsg for MT5 Fixed" />
     <MESSAGE value="mt5 py native" />
@@ -614,7 +652,8 @@
     <MESSAGE value="BIGAI DERIVATIVES" />
     <MESSAGE value="QM OANDA DATA GENERATOR" />
     <MESSAGE value="OANDA DATA GENERATED" />
-    <option name="LAST_COMMIT_MESSAGE" value="OANDA DATA GENERATED" />
+    <MESSAGE value="QM FX BET POKER" />
+    <option name="LAST_COMMIT_MESSAGE" value="QM FX BET POKER" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -709,9 +748,9 @@
           <option name="timeStamp" value="219" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/GenerateDataOanda.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="221" />
+          <url>file://$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/DataPreparator.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="226" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
