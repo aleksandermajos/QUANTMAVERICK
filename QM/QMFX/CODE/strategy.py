@@ -1,8 +1,7 @@
 from abc import ABC, abstractmethod
 import json
 from random import choice
-import numpy as np
-from BIGAISCHOOL.LIBRARY.DATALAKE.TIMESERIES.Utils.Data_Utils_Time_ToChart import Open_Time_To_Existing_Chart, Close_Time_To_Existing_Chart
+from BIGAISCHOOL.LIBRARY.DATALAKE.TIMESERIES.Utils.Opening_Closing_Times_MT45 import Open_Time_To_Existing_Chart, Close_Time_To_Existing_Chart
 
 class Strategy(ABC):
 

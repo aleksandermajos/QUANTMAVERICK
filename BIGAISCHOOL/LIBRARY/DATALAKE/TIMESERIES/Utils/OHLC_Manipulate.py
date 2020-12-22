@@ -1,28 +1,7 @@
 import numpy as np
 import pandas as pd
-import oandapyV20
-from oandapyV20.contrib.factories import InstrumentsCandlesFactory
 import itertools
 
-
-def get_history_oanda(accountID, token, start, stop, instrument, granularity, format):
-
-    client = oandapyV20.API(token, environment="practice")
-
-    params = {
-        "from": start,
-        "to": stop,
-        "granularity": granularity,
-        "count": 4500
-    }
-
-    lista = []
-    for r in InstrumentsCandlesFactory(instrument=instrument, params=params):
-        client.request(r)
-        lista.append(r.response.get('candles'))
-
-    if format == "DF": return(List_Of_Dict_To_DF(lista))
-    if format == "NP": return(Df_To_NumPy(List_Of_Dict_To_DF(lista)))
 
 def List_Of_Dict_To_DF(lista):
     lista = list(itertools.chain.from_iterable(lista))
