@@ -19,23 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="QM FX ONADA TO PYTORCH">
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/DF_to_PyTorch_Tensor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Oanda_Data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MODELHUB/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MODELHUB/__init__.py" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="REFACTOR DATALAKE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/DataGenerator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/DataPreparator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/GenerateDataOanda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/OHLCPYTORCH.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Credentials_Utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Data_Utils_Generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/OHLC_Manipulate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Data_Utils_Preparator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Data_Utils_Time_ToChart.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Data_Utils_Write_Brokers_Time.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Opening_Closing_Times_MT45.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/QMFX/CODE/chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/QMFX/CODE/chart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/QMFX/CODE/strategy.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/QMFX/CODE/strategy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/OHLC_Manipulate.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/OHLC_Manipulate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Oanda_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Oanda_Data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -606,7 +593,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608548455494</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="REFACTOR DATALAKE">
+      <created>1608652261971</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1608652261971</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -639,7 +633,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="ZmqMsg for MT5 Fixed" />
     <MESSAGE value="mt5 py native" />
     <MESSAGE value="DATA DIR" />
     <MESSAGE value="ADD AI TO" />
@@ -664,7 +657,8 @@
     <MESSAGE value="OANDA DATA GENERATED" />
     <MESSAGE value="QM FX BET POKER" />
     <MESSAGE value="QM FX ONADA TO PYTORCH" />
-    <option name="LAST_COMMIT_MESSAGE" value="QM FX ONADA TO PYTORCH" />
+    <MESSAGE value="REFACTOR DATALAKE" />
+    <option name="LAST_COMMIT_MESSAGE" value="REFACTOR DATALAKE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

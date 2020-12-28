@@ -43,3 +43,6 @@ def Add_Growing_Column(df):
 def Df_To_CSV(df,path,name):
     df.to_csv(path+name, index=True)
 
+def Df_Remove_Columns(df, to_remove):
+    return df[df.columns.difference(to_remove)]
+

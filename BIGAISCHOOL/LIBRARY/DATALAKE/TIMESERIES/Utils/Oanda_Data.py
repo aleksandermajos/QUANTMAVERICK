@@ -1,4 +1,4 @@
-from OHLC_Manipulate import Add_Growing_Column, Add_Diff_CO_Column, List_Of_Dict_To_DF, Df_To_NumPy
+from OHLC_Manipulate import Add_Growing_Column, Add_Diff_CO_Column, List_Of_Dict_To_DF, Df_To_NumPy, Df_Remove_Columns
 from DF_to_PyTorch_Tensor import PyTorchDataPreparator
 from pathlib import Path
 from os import fspath
@@ -46,7 +46,7 @@ class OandaData():
                                 test_perc, target):
         data_df = self.GetData(start, stop, instrument, timeframe, "DF")
         to_remove = ["time", "volume"]
-        data_df = data_df[data_df.columns.difference(to_remove)]
+        data_df = Df_Remove_Columns(data_df, to_remove)
         pdp = PyTorchDataPreparator(data_df)
         data_prepared = pdp.GetDataPrepared(batch_size, time_steps, train_perc, val_perc, test_perc, target)
         return data_prepared
@@ -58,7 +58,7 @@ class OandaData():
         data_path_last = fspath(data_path)
         data_df = pd.read_csv(data_path_last)
         to_remove = ["time", "volume"]
-        data_df = data_df[data_df.columns.difference(to_remove)]
+        data_df = Df_Remove_Columns(data_df, to_remove)
         pdp = PyTorchDataPreparator(data_df)
         data_prepared = pdp.GetDataPrepared(batch_size, time_steps, train_perc, val_perc, test_perc, target)
         return data_prepared
@@ -81,6 +81,7 @@ class OandaData():
 
         if format == "DF": return List_Of_Dict_To_DF(lista)
         if format == "NP": return Df_To_NumPy(List_Of_Dict_To_DF(lista))
+
 
 
 
