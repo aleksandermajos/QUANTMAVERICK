@@ -20,9 +20,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="REFACTOR DATALAKE">
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/QUANTUM PYTORCH.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/Quantum0.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/processed/test.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/processed/training.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/train-images-idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/OHLC_Manipulate.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/OHLC_Manipulate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Oanda_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Oanda_Data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/ACCURACY CALCULATION-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/.ipynb_checkpoints/QUANTUM PYTORCH-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/ACTIVATION FUNCTION-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/.ipynb_checkpoints/Quantum0-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/CATEGORICAL CROSS ENTROPY-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/DATA BATCHES-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/DERIVATIVES-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/Draw Activation Functions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/FIRST LAYER-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/FIRST LAYER_2-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/FIRST NEURON-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/LAYER USING NUMPY-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/MULTI LAYER 2-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/MULTI LAYER-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/MULTILAYER WITH ACTIVATIONS-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/PARTIAL DERIVATIVE-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/SINGLE NEURON USING NUMPY-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/.ipynb_checkpoints/SPIRAL DATASET-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/ACCURACY CALCULATION.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/ACTIVATION FUNCTION.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/CATEGORICAL CROSS ENTROPY.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/DATA BATCHES.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/DERIVATIVES.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/Draw Activation Functions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/FIRST LAYER.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/FIRST LAYER_2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/FIRST NEURON.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/LAYER USING NUMPY.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/Layer_Dense.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/MULTI LAYER 2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/MULTI LAYER.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/MULTILAYER WITH ACTIVATIONS.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/PARTIAL DERIVATIVE.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/SINGLE NEURON USING NUMPY.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON DEEP LEARNING/SPIRAL DATASET.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON MACHINE LEARNING/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON METAHEURISTICS/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON QUANTUM MACHINE LEARNING/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.HEDGE FUND BASED ON REINFORCEMENT LEARNING/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.PYTHON/.ipynb_checkpoints/ARRAY SHAPE-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.PYTHON/.ipynb_checkpoints/DOT PRODUCT-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.PYTHON/.ipynb_checkpoints/ZIP FUNCTION-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.PYTHON/ARRAY SHAPE.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.PYTHON/DOT PRODUCT.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.PYTHON/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/FROM ZERO TO HERO.PYTHON/ZIP FUNCTION.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +116,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MODELHUB" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BIGAISCHOOL/COURSES" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,11 +128,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\MODELHUB" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\VISUALIZE" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\FROM ZERO TO HERO.PYTHON" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\AI\MACHINE LEARNING" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\DATALAKE\TIMESERIES\Utils" />
@@ -600,7 +657,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608652261971</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="REFACTOR DATALAKE">
+      <created>1609143273718</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1609143273718</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
