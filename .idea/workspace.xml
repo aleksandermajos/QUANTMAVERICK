@@ -19,27 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="q">
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/QUANTUM MACHINE LEARNING/QUANTUM BACKENDS.ipynb" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="QUANTUM">
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH QUANTUM/.ipynb_checkpoints/QUANTUM X-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH QUANTUM/QUANTUM X.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH QUANTUM/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH RL/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/.ipynb_checkpoints/QUANTUM PYTORCH-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/.ipynb_checkpoints/Quantum0-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/QUANTUM MACHINE LEARNING/.ipynb_checkpoints/QUANTUM BACKENDS-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/QUANTUM PYTORCH.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/QUANTUM MACHINE LEARNING/QUANTUM PYTORCH.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/Quantum0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/QUANTUM MACHINE LEARNING/QUANTUM START.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/QUANTUM MACHINE LEARNING/.ipynb_checkpoints/QUANTUM BACKENDS-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH QUANTUM/.ipynb_checkpoints/QUANTUM BACKENDS-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/QUANTUM MACHINE LEARNING/QUANTUM BACKENDS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH QUANTUM/QUANTUM BACKENDS.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/QUANTUM MACHINE LEARNING/QUANTUM PYTORCH.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH QUANTUM/QUANTUM PYTORCH.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/QUANTUM MACHINE LEARNING/QUANTUM START.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH QUANTUM/QUANTUM START.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/processed/test.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/processed/training.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/t10k-images-idx3-ubyte" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/t10k-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/t10k-labels-idx1-ubyte" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/t10k-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/train-images-idx3-ubyte" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/train-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/train-labels-idx1-ubyte" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/data/MNIST/raw/train-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MODELHUB/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MODELAKE/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MODELHUB/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/MODELAKE/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +69,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/BIGAISCHOOL/COURSES" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH RL" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -88,18 +81,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\MODELHUB" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\VISUALIZE" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\FROM ZERO TO HERO.PYTHON" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\PYTORCH\NLP" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\PYTORCH\GAN" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\PYTORCH\DEPLYMENT" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\PYTORCH\CV" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\PYTORCH RL" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\QUANTUM MACHINE LEARNING" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\DATALAKE\TIMESERIES\Utils" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\DATALAKE\TIMESERIES" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\QM\QMFX" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\MACHINE LEARNING\DEEP LEARNING" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK" />
     </key>
   </component>
   <component name="RunManager" selected="Python.OHLCPYTORCH">
@@ -638,7 +631,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609444768367</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="QUANTUM">
+      <created>1609491793853</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1609491793853</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -671,7 +671,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="DATA DIR" />
     <MESSAGE value="ADD AI TO" />
     <MESSAGE value="ADD AI TO QM" />
     <MESSAGE value="SAVE MODEL" />
@@ -696,7 +695,8 @@
     <MESSAGE value="QM FX ONADA TO PYTORCH" />
     <MESSAGE value="REFACTOR DATALAKE" />
     <MESSAGE value="q" />
-    <option name="LAST_COMMIT_MESSAGE" value="q" />
+    <MESSAGE value="QUANTUM" />
+    <option name="LAST_COMMIT_MESSAGE" value="QUANTUM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
