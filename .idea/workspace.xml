@@ -19,59 +19,27 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="PYTORCH">
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/COMPUTER VISION/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/FRAMEWORKS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/GENERATIVE/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/NLP/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/NLP/VOICE/STT/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/NLP/VOICE/TTS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/GENETIC ALGORITHMS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/META LEARNING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/NEUROEVOLUTION/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SIMULATED ANNEALLING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/ANT COLONY/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/PARTICLE SWARM/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/STOCHASTIC DIFFIUSION/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/README.md" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAISCHOOL">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH QUANTUM/.ipynb_checkpoints/QUANTUM BACKENDS-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/.ipynb_checkpoints/QUANTUM BACKENDS-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH QUANTUM/.ipynb_checkpoints/QUANTUM X-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/.ipynb_checkpoints/QUANTUM X-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH QUANTUM/QUANTUM BACKENDS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/QUANTUM BACKENDS.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH QUANTUM/QUANTUM PYTORCH.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/QUANTUM PYTORCH.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH QUANTUM/QUANTUM START.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/QUANTUM START.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH QUANTUM/QUANTUM X.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/QUANTUM X.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH QUANTUM/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH RL/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP REINFORCEMENT LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH/CV/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH/DEPLYMENT/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH/GAN/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH/NLP/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/PYTORCH/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/COURSES/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP LEARNING/PREELIMINARIES/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Agents/Trading_Agent/RandomAgent.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Agents/Trading_Agent/RandomAgent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Agents/Trading_Agent/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Agents/Trading_Agent/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Agents/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Agents/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/PKG-INFO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/SOURCES.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/dependency_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/dependency_links.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/requires.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/requires.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/top_level.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/envs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/envs/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/envs/trading_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/envs/trading_env.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Envs/Trading_Enviroment/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/Envs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/Envs/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/RL OPENAI GYM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/RL OPENAI GYM.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/RL OWN AGENT PLAY.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/RL OWN AGENT PLAY.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/REINFORCEMENT LEARNING/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP REINFORCEMENT LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/GENETIC ALGORITHMS/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/META LEARNING/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/NEUROEVOLUTION/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SIMULATED ANNEALLING/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/ANT COLONY/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/PARTICLE SWARM/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/STOCHASTIC DIFFIUSION/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/.ipynb_checkpoints/QUANTUM BACKENDS-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/.ipynb_checkpoints/QUANTUM X-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/QUANTUM BACKENDS.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/QUANTUM PYTORCH.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/QUANTUM START.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/QUANTUM X.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -684,7 +652,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610172305571</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="BIGAISCHOOL">
+      <created>1610972493217</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1610972493217</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -717,7 +692,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="ADD AI TO QM" />
     <MESSAGE value="SAVE MODEL" />
     <MESSAGE value="Refactor" />
     <MESSAGE value="TESTS" />
@@ -742,7 +716,8 @@
     <MESSAGE value="q" />
     <MESSAGE value="QUANTUM" />
     <MESSAGE value="PYTORCH" />
-    <option name="LAST_COMMIT_MESSAGE" value="PYTORCH" />
+    <MESSAGE value="BIGAISCHOOL" />
+    <option name="LAST_COMMIT_MESSAGE" value="BIGAISCHOOL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
