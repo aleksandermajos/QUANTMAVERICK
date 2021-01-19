@@ -19,10 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAISCHOOL">
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP REINFORCEMENT LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAISCHOOL RL">
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/GENETIC ALGORITHMS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/META LEARNING/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/NEUROEVOLUTION/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SIMULATED ANNEALLING/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/ANT COLONY/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/PARTICLE SWARM/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/STOCHASTIC DIFFIUSION/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +68,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,11 +80,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\AI\DEEP REINFORCEMENT LEARNING" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\AI COURSES\DEEP REINFORCEMENT LEARNING ON FINANCIAL MARKETS HANDS-ON" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\AI COURSES\DL ON FINANCIAL MARKETS HANDS-ON" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\AI COURSES\DL ON FINANCIAL MARKETS HANDS-ON\FRAMEWORKS" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\DL ON FINANCIAL MARKETS HANDS-ON" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\MH ON FINANCIAL MARKETS HANDS-ON" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\ML ON FINANCIAL MARKETS HANDS-ON" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\QUANTUM MACHINE LEARNING" />
@@ -305,13 +314,6 @@
       <workItem from="1606200232959" duration="20276000" />
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
-    </task>
-    <task id="LOCAL-00001" summary="Synchronize with Github">
-      <created>1573919712467</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1573919712467</updated>
     </task>
     <task id="LOCAL-00002" summary="Synchronize with Github">
       <created>1573921822117</created>
@@ -649,7 +651,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611000513367</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="BIGAISCHOOL RL">
+      <created>1611055282017</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1611055282017</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -682,7 +691,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="SAVE MODEL" />
     <MESSAGE value="Refactor" />
     <MESSAGE value="TESTS" />
     <MESSAGE value="WORKING AGAIN QM!!" />
@@ -707,7 +715,8 @@
     <MESSAGE value="QUANTUM" />
     <MESSAGE value="PYTORCH" />
     <MESSAGE value="BIGAISCHOOL" />
-    <option name="LAST_COMMIT_MESSAGE" value="BIGAISCHOOL" />
+    <MESSAGE value="BIGAISCHOOL RL" />
+    <option name="LAST_COMMIT_MESSAGE" value="BIGAISCHOOL RL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
