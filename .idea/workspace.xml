@@ -20,25 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAISCHOOL">
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP REINFORCEMENT LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP REINFORCEMENT LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/GENETIC ALGORITHMS/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/META LEARNING/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/NEUROEVOLUTION/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SIMULATED ANNEALLING/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/ANT COLONY/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/PARTICLE SWARM/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/META HEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/STOCHASTIC DIFFIUSION/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/.ipynb_checkpoints/QUANTUM BACKENDS-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/.ipynb_checkpoints/QUANTUM X-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/QUANTUM BACKENDS.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/QUANTUM PYTORCH.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/QUANTUM START.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/QUANTUM X.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +59,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DL ON FINANCIAL MARKETS HANDS-ON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/AI/DEEP REINFORCEMENT LEARNING" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -659,7 +642,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610972493217</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="BIGAISCHOOL">
+      <created>1611000513367</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1611000513367</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
