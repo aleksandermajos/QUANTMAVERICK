@@ -19,19 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAISCHOOL RL">
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/GENETIC ALGORITHMS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/META LEARNING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/NEUROEVOLUTION/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SIMULATED ANNEALLING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/ANT COLONY/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/PARTICLE SWARM/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/STOCHASTIC DIFFIUSION/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAISCHOOL">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Oanda_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Oanda_Data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/VISUALIZE/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/VISUALIZE/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QM/QMFX/CODE/chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/QMFX/CODE/chart.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -80,11 +75,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\DATALAKE\TIMESERIES\Utils" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\AI COURSES\METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\AI COURSES\QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\AI COURSES\MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\AI\DEEP REINFORCEMENT LEARNING" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\AI COURSES\DEEP REINFORCEMENT LEARNING ON FINANCIAL MARKETS HANDS-ON" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\AI COURSES\DL ON FINANCIAL MARKETS HANDS-ON" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\AI COURSES\DL ON FINANCIAL MARKETS HANDS-ON\FRAMEWORKS" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\DL ON FINANCIAL MARKETS HANDS-ON" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\QUANTUM MACHINE LEARNING" />
@@ -94,8 +89,8 @@
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\MACHINE LEARNING\DEEP LEARNING" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.OHLCPYTORCH">
-    <configuration name="GenerateDataOanda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python">
       <module name="QUANTMAVERICK PROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,54 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QM/QMFX/CODE" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/GenerateDataOanda.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="OHLCPYTORCH" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="QUANTMAVERICK PROJECT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\LIBRARY\DATALAKE\TIMESERIES\Utils\OHLCPYTORCH.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="QUANTMAVERICK PROJECT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QM/CODE" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QM/CODE/start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QM/QMFX/CODE/start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,9 +135,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.OHLCPYTORCH" />
         <item itemvalue="Python.start" />
-        <item itemvalue="Python.GenerateDataOanda" />
       </list>
     </recent_temporary>
   </component>
@@ -314,13 +264,6 @@
       <workItem from="1606200232959" duration="20276000" />
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
-    </task>
-    <task id="LOCAL-00002" summary="Synchronize with Github">
-      <created>1573921822117</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1573921822117</updated>
     </task>
     <task id="LOCAL-00003" summary="Synchronize with Github">
       <created>1573937022313</created>
@@ -658,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611055282017</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="BIGAISCHOOL">
+      <created>1611062715504</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1611062715504</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -714,9 +664,9 @@
     <MESSAGE value="q" />
     <MESSAGE value="QUANTUM" />
     <MESSAGE value="PYTORCH" />
-    <MESSAGE value="BIGAISCHOOL" />
     <MESSAGE value="BIGAISCHOOL RL" />
-    <option name="LAST_COMMIT_MESSAGE" value="BIGAISCHOOL RL" />
+    <MESSAGE value="BIGAISCHOOL" />
+    <option name="LAST_COMMIT_MESSAGE" value="BIGAISCHOOL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -60,7 +60,7 @@ class ChartFX(Chart):
         data = self.req.recv()
         if len(data) > 2:
             data = data.decode('utf8')
-            data_path = Path(Path(__file__).resolve().parent.parent.parent) / "BIGAISCHOOL\LIBRARY\DATALAKE\DATA\data_candles.csv"
+            data_path = Path(Path(__file__).resolve().parent.parent.parent.parent) / "BIGAISCHOOL\LIBRARY\DATALAKE\DATA\data_candles.csv"
             data_path_last = fspath(data_path)
             f = open(data_path_last, "w")
             f.write(data[:])

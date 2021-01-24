@@ -1,5 +1,5 @@
-from OHLC_Manipulate import Add_Growing_Column, Add_Diff_CO_Column, List_Of_Dict_To_DF, Df_To_NumPy, Df_Remove_Columns
-from DF_to_PyTorch_Tensor import PyTorchDataPreparator
+from .OHLC_Manipulate import Add_Growing_Column, Add_Diff_CO_Column, List_Of_Dict_To_DF, Df_To_NumPy, Df_Remove_Columns
+from .DF_to_PyTorch_Tensor import PyTorchDataPreparator
 from pathlib import Path
 from os import fspath
 import pandas as pd
