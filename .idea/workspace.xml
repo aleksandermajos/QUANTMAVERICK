@@ -19,14 +19,43 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAISCHOOL">
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="qm working">
+      <change afterPath="$PROJECT_DIR$/1.7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/.ipynb_checkpoints/PYTORCH BOLTS FIRST STEPS-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/.ipynb_checkpoints/PYTORCH FORECASTING FIRST STEPS-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/PYTORCH BOLTS FIRST STEPS.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/PYTORCH FORECASTING FIRST STEPS.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_0/checkpoints/epoch=49-step=1149.ckpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_0/events.out.tfevents.1611563147.DESKTOP-238TCFU.9368.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_0/hparams.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_1/checkpoints/epoch=1-step=45.ckpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_1/events.out.tfevents.1611563687.DESKTOP-238TCFU.9368.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_1/hparams.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/DATA/data_candles.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Oanda_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/Oanda_Data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/DATALAKE/TIMESERIES/Utils/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/VISUALIZE/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LIBRARY/VISUALIZE/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QM/QMFX/CODE/chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/QM/QMFX/CODE/chart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/COMPUTER VISION/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/FRAMEWORKS/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/GENERATIVE/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/NLP/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/NLP/VOICE/STT/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/NLP/VOICE/TTS/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP REINFORCEMENT LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/GENETIC ALGORITHMS/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/META LEARNING/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/NEUROEVOLUTION/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SIMULATED ANNEALLING/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/ANT COLONY/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/PARTICLE SWARM/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/STOCHASTIC DIFFIUSION/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/bigaischool_macos.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/bigaischool_ubuntu.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/bigaischool_win10.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quantmaverick_macos.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quantmaverick_ubuntu.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quantmaverick_win10.yml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,13 +293,6 @@
       <workItem from="1606200232959" duration="20276000" />
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
-    </task>
-    <task id="LOCAL-00003" summary="Synchronize with Github">
-      <created>1573937022313</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1573937022314</updated>
     </task>
     <task id="LOCAL-00004" summary="Synchronize with Github">
       <created>1575096749535</created>
@@ -608,7 +630,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611062715504</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="qm working">
+      <created>1611484756256</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1611484756256</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -641,7 +670,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="Refactor" />
     <MESSAGE value="TESTS" />
     <MESSAGE value="WORKING AGAIN QM!!" />
     <MESSAGE value="OPENING TIMES IN CHARTS" />
@@ -666,7 +694,8 @@
     <MESSAGE value="PYTORCH" />
     <MESSAGE value="BIGAISCHOOL RL" />
     <MESSAGE value="BIGAISCHOOL" />
-    <option name="LAST_COMMIT_MESSAGE" value="BIGAISCHOOL" />
+    <MESSAGE value="qm working" />
+    <option name="LAST_COMMIT_MESSAGE" value="qm working" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
