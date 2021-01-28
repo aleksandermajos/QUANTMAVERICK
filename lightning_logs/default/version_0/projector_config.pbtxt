@@ -1,0 +1,40 @@
+embeddings {
+  tensor_name: "agency:00930"
+  metadata_path: "00930/agency\\metadata.tsv"
+  tensor_path: "00930/agency\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "sku:00930"
+  metadata_path: "00930/sku\\metadata.tsv"
+  tensor_path: "00930/sku\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "special_days:00930"
+  metadata_path: "00930/special_days\\metadata.tsv"
+  tensor_path: "00930/special_days\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "month:00930"
+  metadata_path: "00930/month\\metadata.tsv"
+  tensor_path: "00930/month\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "agency:00960"
+  metadata_path: "00960/agency\\metadata.tsv"
+  tensor_path: "00960/agency\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "sku:00960"
+  metadata_path: "00960/sku\\metadata.tsv"
+  tensor_path: "00960/sku\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "special_days:00960"
+  metadata_path: "00960/special_days\\metadata.tsv"
+  tensor_path: "00960/special_days\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "month:00960"
+  metadata_path: "00960/month\\metadata.tsv"
+  tensor_path: "00960/month\\tensors.tsv"
+}

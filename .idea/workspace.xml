@@ -19,43 +19,44 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="qm working">
-      <change afterPath="$PROJECT_DIR$/1.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/.ipynb_checkpoints/PYTORCH BOLTS FIRST STEPS-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/.ipynb_checkpoints/PYTORCH FORECASTING FIRST STEPS-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/PYTORCH BOLTS FIRST STEPS.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/PYTORCH FORECASTING FIRST STEPS.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_0/checkpoints/epoch=49-step=1149.ckpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_0/events.out.tfevents.1611563147.DESKTOP-238TCFU.9368.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_0/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_1/checkpoints/epoch=1-step=45.ckpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_1/events.out.tfevents.1611563687.DESKTOP-238TCFU.9368.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_1/hparams.yaml" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="QM ENV W10">
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00930/agency/metadata.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00930/agency/tensors.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00930/month/metadata.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00930/month/tensors.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00930/sku/metadata.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00930/sku/tensors.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00930/special_days/metadata.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00930/special_days/tensors.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00960/agency/metadata.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00960/agency/tensors.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00960/month/metadata.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00960/month/tensors.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00960/sku/metadata.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00960/sku/tensors.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00960/special_days/metadata.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/00960/special_days/tensors.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/checkpoints/epoch=29-step=959.ckpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/events.out.tfevents.1611826482.DESKTOP-238TCFU.4124.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/hparams.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/default/version_0/projector_config.pbtxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/optuna/version_0/events.out.tfevents.1611827062.DESKTOP-238TCFU.4124.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/optuna/version_0/hparams.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/optuna/version_1/events.out.tfevents.1611827504.DESKTOP-238TCFU.4124.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/optuna/version_1/hparams.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/optuna/version_2/events.out.tfevents.1611827954.DESKTOP-238TCFU.4124.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/optuna/version_2/hparams.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/optuna/version_3/events.out.tfevents.1611827972.DESKTOP-238TCFU.4124.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/optuna/version_3/hparams.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/optuna/version_4/events.out.tfevents.1611827990.DESKTOP-238TCFU.4124.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightning_logs/optuna/version_4/hparams.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optuna_test/trial_0/epoch=6.ckpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optuna_test/trial_1/epoch=11.ckpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optuna_test/trial_2/epoch=1.ckpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optuna_test/trial_3/epoch=1.ckpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optuna_test/trial_4/epoch=7.ckpt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/COMPUTER VISION/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/FRAMEWORKS/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/GENERATIVE/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/NLP/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/NLP/VOICE/STT/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/NLP/VOICE/TTS/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP REINFORCEMENT LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/GENETIC ALGORITHMS/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/META LEARNING/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/NEUROEVOLUTION/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SIMULATED ANNEALLING/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/ANT COLONY/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/PARTICLE SWARM/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON/SWARM INTELLIGENCE/STOCHASTIC DIFFIUSION/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/QUANTUM MACHINE LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/bigaischool_macos.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/bigaischool_ubuntu.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/bigaischool_win10.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quantmaverick_macos.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quantmaverick_ubuntu.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quantmaverick_win10.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/PYTORCH FORECASTING FIRST STEPS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/AI COURSES/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/PYTORCH FORECASTING FIRST STEPS.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,13 +294,6 @@
       <workItem from="1606200232959" duration="20276000" />
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
-    </task>
-    <task id="LOCAL-00004" summary="Synchronize with Github">
-      <created>1575096749535</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1575096749535</updated>
     </task>
     <task id="LOCAL-00005" summary="enviroment">
       <created>1575106762819</created>
@@ -637,7 +631,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611484756256</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="QM ENV W10">
+      <created>1611564738474</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1611564738474</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -670,7 +671,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="TESTS" />
     <MESSAGE value="WORKING AGAIN QM!!" />
     <MESSAGE value="OPENING TIMES IN CHARTS" />
     <MESSAGE value="OPENING TIMES IN MQL4" />
@@ -695,7 +695,8 @@
     <MESSAGE value="BIGAISCHOOL RL" />
     <MESSAGE value="BIGAISCHOOL" />
     <MESSAGE value="qm working" />
-    <option name="LAST_COMMIT_MESSAGE" value="qm working" />
+    <MESSAGE value="QM ENV W10" />
+    <option name="LAST_COMMIT_MESSAGE" value="QM ENV W10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
