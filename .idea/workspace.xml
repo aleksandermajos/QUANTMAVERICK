@@ -20,26 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="REMOVE INIT">
+      <change afterPath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/NLP/WORDS/RUSSIAN1000.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/ARCHITECTURES/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/MACHINE LEARNING/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/FRAMEWORKS/PYTORCH/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/METAHEURISTICS LEARNING/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/FRAMEWORKS/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/QUANTUM MACHINE LEARNING/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/TRAINING/TRAINED/PREDICTORS/DARNN_EURUSD_H12.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/TRAINING/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Agents/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/envs/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/RL OPENAI GYM.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/RL OWN AGENT PLAY.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/Utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/SCRAPING/REVERSO.NET/PYTHON WEB SENTENCES SCRAPPING.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/VISUALIZATIONS/PYTHON PLOTLY CANDLE VISUALIZATIONS.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/VISUALIZATIONS/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,11 +77,11 @@
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\AI COURSES\METAHEURISTICS ON FINANCIAL MARKETS HANDS-ON" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI\AI\DEEP LEARNING\NLP\WORDS" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI\DATALAKE" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\COURSES\QUANTUM MACHINE LEARNING" />
     </key>
   </component>
   <component name="RunManager">
@@ -277,13 +259,6 @@
       <workItem from="1606200232959" duration="20276000" />
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
-    </task>
-    <task id="LOCAL-00007" summary="Refactor">
-      <created>1585830763665</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1585830763665</updated>
     </task>
     <task id="LOCAL-00008" summary="Refactor">
       <created>1585839401337</created>
@@ -621,7 +596,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611878993295</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="REMOVE INIT">
+      <created>1611882251783</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1611882251783</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
