@@ -19,127 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI+QM WORKING">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/ARCHITECTURES/DARNN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/ARCHITECTURES/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/AUDIO/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/COMPUTER VISION/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/DEPLOYMENT/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/FRAMEWORKS/PYTORCH/DETECT GPU.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/FRAMEWORKS/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/GENERATIVE/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/NLP/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/NLP/VOICE/STT/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/NLP/VOICE/TTS/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/TIME SERIES/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/TRAINING/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/TRAINING/Train.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP LEARNING/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Agents/Trading_Agent/RandomAgent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Agents/Trading_Agent/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/PKG-INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/SOURCES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/requires.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/envs/trading_env.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/DEEP REINFORCEMENT LEARNING/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/MACHINE LEARNING/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/MACHINE LEARNING/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/METAHEURISTICS LEARNING/GENETIC ALGORITHMS/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/METAHEURISTICS LEARNING/META LEARNING/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/METAHEURISTICS LEARNING/NEUROEVOLUTION/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/METAHEURISTICS LEARNING/SIMULATED ANNEALLING/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/ANT COLONY/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/PARTICLE SWARM/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/STOCHASTIC DIFFIUSION/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/METAHEURISTICS LEARNING/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/QUANTUM MACHINE LEARNING/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/QUANTUM MACHINE LEARNING/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/AI/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/NLP/RUSSIAN/MALY KSIAZE RU.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/NLP/RUSSIAN/RUSSIAN.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/NLP/RUSSIAN/RUSSIAN1000.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/NLP/RUSSIAN/Сказка Маленький принц скачать DOC.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/BROKERS_OPEN_TIMES.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_AUD_USD_H1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_AUD_USD_H12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_AUD_USD_H4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_AUD_USD_M15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_AUD_USD_M30.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_EUR_USD_H1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_EUR_USD_H12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_EUR_USD_H4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_EUR_USD_M15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_EUR_USD_M30.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_GBP_USD_H1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_GBP_USD_H12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_GBP_USD_H4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_GBP_USD_M15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_GBP_USD_M30.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_CAD_H1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_CAD_H12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_CAD_H4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_CAD_M15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_CAD_M30.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_CHF_H1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_CHF_H12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_CHF_H4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_CHF_M15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_CHF_M30.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_JPY_H1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_JPY_H12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_JPY_H4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_JPY_M15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/OANDA_USD_JPY_M30.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/TIMELINE_EURUSD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/DATA/data_candles.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/OHLC_Manipulate.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/Oanda_Data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/TIMESERIES/Opening_Closing_Times_MT45.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/DATALAKE/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/MODELAKE/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/MODELAKE/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/ALGORITHMS/GRAPHS/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/ALGORITHMS/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/CALCULUS/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/LINEAR ALGEBRA/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/NUMPY/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/PANDAS/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/PROBABILISTICS/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/SCRAPING/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/SKLEARN/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/STATISTICS/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/VISUALIZATIONS/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/VISUALIZATIONS/Visualize.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/PYTHON/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/BIGAI/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/SCHOOL/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/.ipynb_checkpoints/PYTORCH BOLTS FIRST STEPS-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/SCHOOL/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/.ipynb_checkpoints/PYTORCH FORECASTING FIRST STEPS-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/SCHOOL/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/PYTORCH BOLTS FIRST STEPS.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/SCHOOL/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/PYTORCH FORECASTING FIRST STEPS.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/SCHOOL/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/SCHOOL/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_0/checkpoints/epoch=49-step=1149.ckpt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/SCHOOL/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_0/events.out.tfevents.1611563147.DESKTOP-238TCFU.9368.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/SCHOOL/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_0/hparams.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/SCHOOL/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_1/checkpoints/epoch=1-step=45.ckpt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/SCHOOL/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_1/events.out.tfevents.1611563687.DESKTOP-238TCFU.9368.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/SCHOOL/DEEP LEARNING ON FINANCIAL MARKETS HANDS-ON/lightning_logs/version_1/hparams.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/SCHOOL/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIGAISCHOOL/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CODE/chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/CODE/chart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CODE/strategy.py" beforeDir="false" afterPath="$PROJECT_DIR$/CODE/strategy.py" afterDir="false" />
-    </list>
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI+QM WORKING" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -398,13 +278,6 @@
       <workItem from="1606200232959" duration="20276000" />
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
-    </task>
-    <task id="LOCAL-00010" summary="env">
-      <created>1586186003301</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1586186003301</updated>
     </task>
     <task id="LOCAL-00011" summary="ZmqMsg for MT5 Fixed">
       <created>1587137991372</created>
@@ -742,7 +615,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611886488194</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="BIGAI+QM WORKING">
+      <created>1611892642900</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1611892642900</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
