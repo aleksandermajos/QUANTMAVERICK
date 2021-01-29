@@ -17,6 +17,7 @@ class Listener:
         self.sub = self.context.socket(zmq.SUB)
         self.req = self.context.socket(zmq.REQ)
         self.Charts = list()
+        self.time_line_path = "BIGAISCHOOL\BIGAI\DATALAKE\TIMESERIES\DATA\TIMELINE.csv"
         self.TimeLine = pd.DataFrame()
         self.Strategy = {}
         self.Strategy = {"StrategyFXTickRandom": StrategyFXTickRandom("StrategyFXTickRandom")}
@@ -72,7 +73,7 @@ class Listener:
                         #self.Strategy['StrategyFXTickRandom'].Decide(self.Charts)
                         if self.TimeLine.empty:
                             data_path = Path(Path(
-                                __file__).resolve().parent.parent.parent) / "BIGAISCHOOL\LIBRARY\DATALAKE\DATA\TIMELINE.csv"
+                                __file__).resolve().parent.parent.parent) / self.time_line_path
                             data_path_last = fspath(data_path)
                             if os.path.isfile(data_path_last):
                                 df_from_file = pd.read_csv(data_path_last)
@@ -83,7 +84,7 @@ class Listener:
                             self.TimeLine = self.TimeLine.append(data, ignore_index=True)
                         if self.TimeLine.shape[0] %1000 == 0:
                             data_path = Path(Path(
-                                __file__).resolve().parent.parent.parent) / "BIGAISCHOOL\LIBRARY\DATALAKE\DATA\TIMELINE.csv"
+                                __file__).resolve().parent.parent.parent) / self.time_line_path
                             data_path_last = fspath(data_path)
                             self.TimeLine.to_csv(data_path_last)
                         print(data.to_string(header=False,index=False))

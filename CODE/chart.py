@@ -8,7 +8,7 @@ import json
 import pandas as pd
 import zmq
 import zmq.asyncio
-from BIGAISCHOOL.BIGAI.DATALAKE.TIMESERIES.Utils.Oanda_Data import exampleAuth
+from BIGAISCHOOL.BIGAI.DATALAKE.TIMESERIES.Oanda_Data import exampleAuth
 from BIGAISCHOOL.BIGAI.DATALAKE import Open_Time_To_New_Chart, Close_Time_To_New_Chart
 from BIGAISCHOOL.BIGAI.DATALAKE import Average_OpenTimes, Average_CloseTimes
 import fxcmpy
@@ -49,6 +49,7 @@ class ChartFX(Chart):
         self.sub.connect("tcp://localhost:" + self.subport)
         self.sub.subscribe("")
         self.req.connect("tcp://localhost:" + self.reqport)
+        self.data_candles_path = "BIGAISCHOOL\BIGAI\DATALAKE\TIMESERIES\DATA\data_candles.csv"
         self.req.send(b"INSTRUMENTINFO")
         data = self.req.recv()
         data = data.decode('utf8').replace("}{", ", ")
@@ -60,7 +61,7 @@ class ChartFX(Chart):
         data = self.req.recv()
         if len(data) > 2:
             data = data.decode('utf8')
-            data_path = Path(Path(__file__).resolve().parent.parent.parent.parent) / "BIGAISCHOOL\LIBRARY\DATALAKE\DATA\data_candles.csv"
+            data_path = Path(Path(__file__).resolve().parent.parent) / self.data_candles_path
             data_path_last = fspath(data_path)
             f = open(data_path_last, "w")
             f.write(data[:])

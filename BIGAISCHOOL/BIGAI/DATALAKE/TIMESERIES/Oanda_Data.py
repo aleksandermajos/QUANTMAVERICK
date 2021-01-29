@@ -1,5 +1,4 @@
 from .OHLC_Manipulate import Add_Growing_Column, Add_Diff_CO_Column, List_Of_Dict_To_DF, Df_To_NumPy, Df_Remove_Columns
-from .DF_to_PyTorch_Tensor import PyTorchDataPreparator
 from pathlib import Path
 from os import fspath
 import pandas as pd
@@ -41,27 +40,6 @@ class OandaData():
                 data_df = Add_Diff_CO_Column(data_df)
                 data_df = Add_Growing_Column(data_df)
                 data_df.to_csv(data_path_last, index=False)
-
-    def Online_Oanda_To_Pytorch(self,start, stop, instrument, timeframe, batch_size, time_steps, train_perc, val_perc,
-                                test_perc, target):
-        data_df = self.GetData(start, stop, instrument, timeframe, "DF")
-        to_remove = ["time", "volume"]
-        data_df = Df_Remove_Columns(data_df, to_remove)
-        pdp = PyTorchDataPreparator(data_df)
-        data_prepared = pdp.GetDataPrepared(batch_size, time_steps, train_perc, val_perc, test_perc, target)
-        return data_prepared
-
-    def Offline_Oanda_To_Pytorch(instrument, timeframe, batch_size, time_steps, train_perc, val_perc, test_perc,
-                                 target):
-        path = "DATALAKE\DATA\OANDA_" + instrument + "_" + timeframe + ".csv"
-        data_path = Path(Path(__file__).resolve().parent.parent.parent) / path
-        data_path_last = fspath(data_path)
-        data_df = pd.read_csv(data_path_last)
-        to_remove = ["time", "volume"]
-        data_df = Df_Remove_Columns(data_df, to_remove)
-        pdp = PyTorchDataPreparator(data_df)
-        data_prepared = pdp.GetDataPrepared(batch_size, time_steps, train_perc, val_perc, test_perc, target)
-        return data_prepared
 
     def get_history_oanda(accountID, token, start, stop, instrument, granularity, format):
 
