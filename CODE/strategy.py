@@ -1,7 +1,7 @@
 from abc import ABC, abstractmethod
 import json
 from random import choice
-from BIGAISCHOOL.BIGAI.DATALAKE import Open_Time_To_Existing_Chart
+from BIGAI.DATALAKE.TIMESERIES.Opening_Closing_Times_MT45 import Open_Time_To_Existing_Chart
 
 
 class Strategy(ABC):

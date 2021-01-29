@@ -8,9 +8,9 @@ import json
 import pandas as pd
 import zmq
 import zmq.asyncio
-from BIGAISCHOOL.BIGAI.DATALAKE.TIMESERIES.Oanda_Data import exampleAuth
-from BIGAISCHOOL.BIGAI.DATALAKE import Open_Time_To_New_Chart, Close_Time_To_New_Chart
-from BIGAISCHOOL.BIGAI.DATALAKE import Average_OpenTimes, Average_CloseTimes
+from BIGAI.DATALAKE import exampleAuth
+from BIGAI.DATALAKE import Open_Time_To_New_Chart, Close_Time_To_New_Chart
+from BIGAI.DATALAKE import Average_OpenTimes, Average_CloseTimes
 import fxcmpy
 import socket
 from datetime import datetime
