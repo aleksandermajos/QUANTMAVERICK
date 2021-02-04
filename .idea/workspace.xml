@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI+QM WORKING" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI+QM WORKING">
+      <change afterPath="$PROJECT_DIR$/=1.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/QUANTMAVERICK PROJECT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/QUANTMAVERICK PROJECT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
