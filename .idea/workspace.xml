@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="ENV QM SAVED">
-      <change beforePath="$PROJECT_DIR$/QUANTMAVERICK_UBUNTU20.yml" beforeDir="false" afterPath="$PROJECT_DIR$/QUANTMAVERICK_UBUNTU20.yml" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI+QM WORKING">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,6 +280,13 @@
       <workItem from="1606200232959" duration="20276000" />
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
+    </task>
+    <task id="LOCAL-00011" summary="ZmqMsg for MT5 Fixed">
+      <created>1587137991372</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587137991372</updated>
     </task>
     <task id="LOCAL-00012" summary="Refactor">
       <created>1590158771013</created>
@@ -617,14 +624,7 @@
       <option name="project" value="LOCAL" />
       <updated>1611892642900</updated>
     </task>
-    <task id="LOCAL-00060" summary="ENV QM SAVED">
-      <created>1612438181108</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1612438181108</updated>
-    </task>
-    <option name="localTasksCounter" value="61" />
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -657,6 +657,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="OPENING TIMES IN FILE" />
     <MESSAGE value="OPENING AND CLOSING TIMES IN FILES BUILDING CHART" />
     <MESSAGE value="BIGAI COURSE" />
     <MESSAGE value="BIGAI COURSES" />
@@ -681,8 +682,7 @@
     <MESSAGE value="BIGAI LIGHT" />
     <MESSAGE value="REMOVE INIT" />
     <MESSAGE value="BIGAI+QM WORKING" />
-    <MESSAGE value="ENV QM SAVED" />
-    <option name="LAST_COMMIT_MESSAGE" value="ENV QM SAVED" />
+    <option name="LAST_COMMIT_MESSAGE" value="BIGAI+QM WORKING" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
