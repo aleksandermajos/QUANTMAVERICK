@@ -19,79 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI+QM WORKING">
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/ARCHITECTURES/DARNN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/ARCHITECTURES/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/AUDIO/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/COMPUTER VISION/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/DEPLOYMENT/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/FRAMEWORKS/PYTORCH/DETECT GPU.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/FRAMEWORKS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/GENERATIVE/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/NLP/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/NLP/VOICE/STT/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/NLP/VOICE/TTS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/TIME SERIES/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/TRAINING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/TRAINING/Train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Agents/Trading_Agent/RandomAgent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Agents/Trading_Agent/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/requires.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/envs/trading_env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/MACHINE LEARNING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/MACHINE LEARNING/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/GENETIC ALGORITHMS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/META LEARNING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/NEUROEVOLUTION/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/SIMULATED ANNEALLING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/ANT COLONY/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/PARTICLE SWARM/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/STOCHASTIC DIFFIUSION/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/QUANTUM MACHINE LEARNING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/QUANTUM MACHINE LEARNING/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/AI/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/DATALAKE/NLP/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/DATALAKE/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/DATALAKE/TIMESERIES/OHLC_Manipulate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/DATALAKE/TIMESERIES/Oanda_Data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/DATALAKE/TIMESERIES/Opening_Closing_Times_MT45.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/DATALAKE/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/MODELAKE/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/MODELAKE/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/ALGORITHMS/GRAPHS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/ALGORITHMS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/CALCULUS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/LINEAR ALGEBRA/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/NUMPY/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/PANDAS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/PROBABILISTICS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/SCRAPING/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/SKLEARN/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/STATISTICS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/VISUALIZATIONS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/VISUALIZATIONS/Visualize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIGAI/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA/DATA_CANDLES.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA/TIMELINE.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CODE/chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/CODE/chart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CODE/listener.py" beforeDir="false" afterPath="$PROJECT_DIR$/CODE/listener.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA/TIMELINE_EURUSD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA/data_candles.csv" beforeDir="false" />
-    </list>
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI+QM WORKING DATA" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -372,13 +300,6 @@
       <workItem from="1606200232959" duration="20276000" />
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
-    </task>
-    <task id="LOCAL-00011" summary="ZmqMsg for MT5 Fixed">
-      <created>1587137991372</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1587137991372</updated>
     </task>
     <task id="LOCAL-00012" summary="Refactor">
       <created>1590158771013</created>
@@ -716,7 +637,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611892642900</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="BIGAI+QM WORKING DATA">
+      <created>1615455023010</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1615455023010</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -749,7 +677,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="OPENING TIMES IN FILE" />
     <MESSAGE value="OPENING AND CLOSING TIMES IN FILES BUILDING CHART" />
     <MESSAGE value="BIGAI COURSE" />
     <MESSAGE value="BIGAI COURSES" />
@@ -774,7 +701,8 @@
     <MESSAGE value="BIGAI LIGHT" />
     <MESSAGE value="REMOVE INIT" />
     <MESSAGE value="BIGAI+QM WORKING" />
-    <option name="LAST_COMMIT_MESSAGE" value="BIGAI+QM WORKING" />
+    <MESSAGE value="BIGAI+QM WORKING DATA" />
+    <option name="LAST_COMMIT_MESSAGE" value="BIGAI+QM WORKING DATA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
