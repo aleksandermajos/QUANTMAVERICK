@@ -20,7 +20,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI+QM WORKING">
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/ARCHITECTURES/DARNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/ARCHITECTURES/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/AUDIO/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/COMPUTER VISION/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/DEPLOYMENT/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/FRAMEWORKS/PYTORCH/DETECT GPU.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/FRAMEWORKS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/GENERATIVE/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/NLP/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/NLP/VOICE/STT/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/NLP/VOICE/TTS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/TIME SERIES/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/TRAINING/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/TRAINING/Train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP LEARNING/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Agents/Trading_Agent/RandomAgent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Agents/Trading_Agent/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/Envs/Trading_Enviroment/Trading_env/envs/trading_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/DEEP REINFORCEMENT LEARNING/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/MACHINE LEARNING/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/MACHINE LEARNING/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/GENETIC ALGORITHMS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/META LEARNING/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/NEUROEVOLUTION/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/SIMULATED ANNEALLING/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/ANT COLONY/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/PARTICLE SWARM/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/SWARM INTELLIGENCE/STOCHASTIC DIFFIUSION/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/METAHEURISTICS LEARNING/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/QUANTUM MACHINE LEARNING/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/QUANTUM MACHINE LEARNING/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/AI/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/DATALAKE/NLP/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/DATALAKE/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/DATALAKE/TIMESERIES/OHLC_Manipulate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/DATALAKE/TIMESERIES/Oanda_Data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/DATALAKE/TIMESERIES/Opening_Closing_Times_MT45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/DATALAKE/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/MODELAKE/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/MODELAKE/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/ALGORITHMS/GRAPHS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/ALGORITHMS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/CALCULUS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/LINEAR ALGEBRA/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/NUMPY/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/PANDAS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/PROBABILISTICS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/SCRAPING/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/SKLEARN/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/STATISTICS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/VISUALIZATIONS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/VISUALIZATIONS/Visualize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/PYTHON/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIGAI/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/DATA_CANDLES.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/TIMELINE.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE/chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/CODE/chart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE/listener.py" beforeDir="false" afterPath="$PROJECT_DIR$/CODE/listener.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA/TIMELINE_EURUSD.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA/data_candles.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +127,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/BIGAISCHOOL/BIGAI" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,8 +139,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK" />
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI\AI\QUANTUM MACHINE LEARNING" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI\AI\METAHEURISTICS LEARNING" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI\AI\MACHINE LEARNING" />
@@ -84,6 +154,27 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.start (1)">
+    <configuration name="listener" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QUANTMAVERICK PROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CODE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CODE/listener.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="start (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QUANTMAVERICK PROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,6 +242,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.start (1)" />
+        <item itemvalue="Python.listener" />
         <item itemvalue="Python.start" />
       </list>
     </recent_temporary>
@@ -775,6 +867,26 @@
           <url>file://$PROJECT_DIR$/TEST/learning.py</url>
           <line>12</line>
           <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CODE/listener.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BIGAI/DATALAKE/TIMESERIES/Opening_Closing_Times_MT45.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BIGAI/DATALAKE/TIMESERIES/Opening_Closing_Times_MT45.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CODE/chart.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="238" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

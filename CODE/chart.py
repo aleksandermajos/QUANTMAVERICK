@@ -37,9 +37,14 @@ class ChartFX(Chart):
         self.Symbol = data["Symbol"]
         self.Period = data["Period"]
         self.WindowID = data["WindowID"]
-        self.OpenTimes = Open_Time_To_New_Chart(self)
+        data_path = Path(Path(
+            __file__).resolve().parent.parent)
+        data_path_last = fspath(data_path)
+        self.broker_open_times = data_path_last + "\DATA\BROKERS_OPEN_TIMES.csv"
+        self.OpenTimes = Open_Time_To_New_Chart(self,self.broker_open_times)
         self.Average_OpenTimes = Average_OpenTimes(self)
-        self.ClosingTimes = Close_Time_To_New_Chart(self)
+        self.broker_close_times = data_path_last + "\DATA\BROKERS_CLOSE_TIMES.csv"
+        self.ClosingTimes = Close_Time_To_New_Chart(self,self.broker_close_times)
         self.Average_CloseTimes = Average_CloseTimes(self)
         self.subport = subport
         self.reqport = reqport
@@ -49,7 +54,7 @@ class ChartFX(Chart):
         self.sub.connect("tcp://localhost:" + self.subport)
         self.sub.subscribe("")
         self.req.connect("tcp://localhost:" + self.reqport)
-        self.data_candles_path = "BIGAISCHOOL\BIGAI\DATALAKE\TIMESERIES\DATA\data_candles.csv"
+        self.data_candles_path = "\DATA\DATA_CANDLES.csv"
         self.req.send(b"INSTRUMENTINFO")
         data = self.req.recv()
         data = data.decode('utf8').replace("}{", ", ")
@@ -61,8 +66,9 @@ class ChartFX(Chart):
         data = self.req.recv()
         if len(data) > 2:
             data = data.decode('utf8')
-            data_path = Path(Path(__file__).resolve().parent.parent) / self.data_candles_path
+            data_path = Path(Path(__file__).resolve().parent.parent)
             data_path_last = fspath(data_path)
+            data_path_last += self.data_candles_path
             f = open(data_path_last, "w")
             f.write(data[:])
             f.close()
