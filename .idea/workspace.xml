@@ -19,15 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI+QM WORKING DATA FIN">
-      <change beforePath="$PROJECT_DIR$/.idea/QUANTMAVERICK PROJECT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/QUANTMAVERICK PROJECT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI+QM WORKING AGAIN">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/=1.7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CODE/chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/CODE/chart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CODE/strategy.py" beforeDir="false" afterPath="$PROJECT_DIR$/CODE/strategy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA/DATA_CANDLES.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA/DATA_CANDLES.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA/TIMELINE.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA/TIMELINE.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +83,7 @@
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI\AI\DEEP LEARNING\NLP\WORDS" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.start (1)">
+  <component name="RunManager" selected="Python.chart">
     <configuration name="chart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QUANTMAVERICK PROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,8 +192,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.start (1)" />
         <item itemvalue="Python.chart" />
+        <item itemvalue="Python.start (1)" />
         <item itemvalue="Python.listener" />
         <item itemvalue="Python.start" />
       </list>
@@ -331,13 +324,6 @@
       <workItem from="1606200232959" duration="20276000" />
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
-    </task>
-    <task id="LOCAL-00014" summary="DATA DIR">
-      <created>1596612380327</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1596612380327</updated>
     </task>
     <task id="LOCAL-00015" summary="DATA DIR">
       <created>1597049624001</created>
@@ -675,7 +661,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615460018896</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="BIGAI+QM WORKING AGAIN">
+      <created>1617209290119</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1617209290119</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -708,7 +701,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="BIGAI COURSE" />
     <MESSAGE value="BIGAI COURSES" />
     <MESSAGE value="BIGAI COURSE DL START" />
     <MESSAGE value="BIGAI COURSE DL1" />
@@ -733,7 +725,8 @@
     <MESSAGE value="BIGAI+QM WORKING" />
     <MESSAGE value="BIGAI+QM WORKING DATA" />
     <MESSAGE value="BIGAI+QM WORKING DATA FIN" />
-    <option name="LAST_COMMIT_MESSAGE" value="BIGAI+QM WORKING DATA FIN" />
+    <MESSAGE value="BIGAI+QM WORKING AGAIN" />
+    <option name="LAST_COMMIT_MESSAGE" value="BIGAI+QM WORKING AGAIN" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
