@@ -20,7 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI+QM WORKING AGAIN">
+      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/TFT_FROM_OHLC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/OHLC_Manipulate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/OHLC_Manipulate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oanda_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oanda_Data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA/DATA_CANDLES.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA/DATA_CANDLES.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +47,7 @@
         <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../BIGAI" />
   </component>
   <component name="JupyterTrust" id="bf6328ed-54a0-4c08-aec8-fd4dafd1947c" />
   <component name="ProjectId" id="1OjKlSeJQIor8jJnLEP1BYIZH5q" />
@@ -57,7 +64,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DATA" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,11 +76,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\DATA" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI\AI\QUANTUM MACHINE LEARNING" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI\AI\METAHEURISTICS LEARNING" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI\AI\MACHINE LEARNING" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL" />
@@ -83,20 +90,20 @@
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI\AI\DEEP LEARNING\NLP\WORDS" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.chart">
-    <configuration name="chart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="QUANTMAVERICK PROJECT" />
+  <component name="RunManager" selected="Python.Oandzina">
+    <configuration name="Oanda_Data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BIGAI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CODE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CODE/chart.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oanda_Data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +112,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listener" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Oandzina" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BIGAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TFT_FROM_OHLC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QUANTMAVERICK PROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +141,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CODE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DATA" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CODE/listener.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DATA/TFT_FROM_OHLC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="basem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QUANTMAVERICK PROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DATA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DATA/basem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,10 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.chart" />
         <item itemvalue="Python.start (1)" />
-        <item itemvalue="Python.listener" />
-        <item itemvalue="Python.start" />
+        <item itemvalue="Python.basem" />
+        <item itemvalue="Python.TFT_FROM_OHLC" />
+        <item itemvalue="Python.Oandzina" />
+        <item itemvalue="Python.Oanda_Data" />
       </list>
     </recent_temporary>
   </component>
@@ -324,13 +374,6 @@
       <workItem from="1606200232959" duration="20276000" />
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
-    </task>
-    <task id="LOCAL-00015" summary="DATA DIR">
-      <created>1597049624001</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1597049624001</updated>
     </task>
     <task id="LOCAL-00016" summary="ADD AI TO">
       <created>1597051596205</created>
@@ -668,7 +711,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617209290119</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="BIGAI+QM WORKING AGAIN">
+      <created>1617461817311</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1617461817311</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -831,9 +881,9 @@
           <option name="timeStamp" value="229" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CODE/start.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="231" />
+          <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="248" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
