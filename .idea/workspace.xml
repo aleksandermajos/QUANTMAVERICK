@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI IMPORTS">
-      <change afterPath="$PROJECT_DIR$/../BIGBANGLANG/DATA/HISZPANSKI/WORDS/WORDS_ES.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/OHLC_Manipulate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/OHLC_Manipulate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI OHLC_Manipulate REG AND CLASS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -373,13 +366,6 @@
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
     </task>
-    <task id="LOCAL-00019" summary="Refactor">
-      <created>1598960711784</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1598960711785</updated>
-    </task>
     <task id="LOCAL-00020" summary="Refactor">
       <created>1598967847385</created>
       <option name="number" value="00020" />
@@ -716,7 +702,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619679795789</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="BIGAI OHLC_Manipulate REG AND CLASS">
+      <created>1620125023174</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1620125023174</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -749,7 +742,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="BIGAI COURSE DL START" />
     <MESSAGE value="BIGAI COURSE DL1" />
     <MESSAGE value="QM FATDATA" />
     <MESSAGE value="BIGAI ACTIVATIONS FUNCTIONS" />
@@ -774,7 +766,8 @@
     <MESSAGE value="BIGAI+QM WORKING DATA FIN" />
     <MESSAGE value="BIGAI+QM WORKING AGAIN" />
     <MESSAGE value="BIGAI IMPORTS" />
-    <option name="LAST_COMMIT_MESSAGE" value="BIGAI IMPORTS" />
+    <MESSAGE value="BIGAI OHLC_Manipulate REG AND CLASS" />
+    <option name="LAST_COMMIT_MESSAGE" value="BIGAI OHLC_Manipulate REG AND CLASS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -885,8 +878,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/OHLC_Manipulate.py</url>
-          <line>69</line>
+          <line>71</line>
           <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/OHLC_Manipulate.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="263" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
