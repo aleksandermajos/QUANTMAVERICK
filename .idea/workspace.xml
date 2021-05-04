@@ -19,13 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI+QM WORKING AGAIN">
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI IMPORTS">
+      <change afterPath="$PROJECT_DIR$/../BIGBANGLANG/DATA/HISZPANSKI/WORDS/WORDS_ES.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/OHLC_Manipulate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/OHLC_Manipulate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oanda_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oanda_Data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA/DATA_CANDLES.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA/DATA_CANDLES.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA/TIMELINE.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA/TIMELINE.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
         <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../BIGAI" />
   </component>
   <component name="JupyterTrust" id="bf6328ed-54a0-4c08-aec8-fd4dafd1947c" />
   <component name="ProjectId" id="1OjKlSeJQIor8jJnLEP1BYIZH5q" />
@@ -62,7 +62,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DATA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BIGBANGLANG/DATA/HISZPANSKI/WORDS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -74,11 +74,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hapir\PycharmProjects\BIGBANGLANG\DATA\HISZPANSKI\WORDS" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\DATA" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI" />
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI\AI\QUANTUM MACHINE LEARNING" />
-      <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI\AI\METAHEURISTICS LEARNING" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL" />
@@ -88,8 +88,8 @@
       <recent name="C:\Users\hapir\PycharmProjects\QUANTMAVERICK\BIGAISCHOOL\BIGAI\AI\DEEP LEARNING\NLP\WORDS" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.start (1)">
-    <configuration name="Oanda_Data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Oandzina">
+    <configuration name="OHLC_Manipulate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BIGAI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oanda_Data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/OHLC_Manipulate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Oandzina" />
+        <item itemvalue="Python.OHLC_Manipulate" />
         <item itemvalue="Python.start (1)" />
         <item itemvalue="Python.basem" />
         <item itemvalue="Python.TFT_FROM_OHLC" />
-        <item itemvalue="Python.Oandzina" />
-        <item itemvalue="Python.Oanda_Data" />
       </list>
     </recent_temporary>
   </component>
@@ -372,13 +372,6 @@
       <workItem from="1606200232959" duration="20276000" />
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
-    </task>
-    <task id="LOCAL-00018" summary="SAVE MODEL">
-      <created>1597134332190</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1597134332190</updated>
     </task>
     <task id="LOCAL-00019" summary="Refactor">
       <created>1598960711784</created>
@@ -716,7 +709,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619678712991</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="BIGAI IMPORTS">
+      <created>1619679795789</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1619679795789</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -749,7 +749,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="BIGAI COURSES" />
     <MESSAGE value="BIGAI COURSE DL START" />
     <MESSAGE value="BIGAI COURSE DL1" />
     <MESSAGE value="QM FATDATA" />
@@ -774,7 +773,8 @@
     <MESSAGE value="BIGAI+QM WORKING DATA" />
     <MESSAGE value="BIGAI+QM WORKING DATA FIN" />
     <MESSAGE value="BIGAI+QM WORKING AGAIN" />
-    <option name="LAST_COMMIT_MESSAGE" value="BIGAI+QM WORKING AGAIN" />
+    <MESSAGE value="BIGAI IMPORTS" />
+    <option name="LAST_COMMIT_MESSAGE" value="BIGAI IMPORTS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -880,8 +880,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py</url>
-          <line>4</line>
+          <line>5</line>
           <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/OHLC_Manipulate.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="259" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
