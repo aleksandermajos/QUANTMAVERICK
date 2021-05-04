@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI OHLC_Manipulate REG AND CLASS" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI OHLC_Manipulate REG AND CLASS">
+      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Data_to_PytorchForecasting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -366,13 +370,6 @@
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
     </task>
-    <task id="LOCAL-00020" summary="Refactor">
-      <created>1598967847385</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1598967847385</updated>
-    </task>
     <task id="LOCAL-00021" summary="Refactor">
       <created>1599069250804</created>
       <option name="number" value="00021" />
@@ -709,7 +706,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620125023174</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="BIGAI OHLC_Manipulate REG AND CLASS">
+      <created>1620125291558</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1620125291558</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -873,18 +877,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py</url>
-          <line>5</line>
+          <line>16</line>
           <option name="timeStamp" value="248" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/OHLC_Manipulate.py</url>
-          <line>71</line>
-          <option name="timeStamp" value="259" />
+          <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Data_to_PytorchForecasting.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="266" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/OHLC_Manipulate.py</url>
-          <line>50</line>
-          <option name="timeStamp" value="263" />
+          <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Data_to_PytorchForecasting.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="267" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
