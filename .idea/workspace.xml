@@ -20,43 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="NBEATS ON DATA!">
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/.ipynb_checkpoints/N-BEATS-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/N-BEATS.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_10/checkpoints/epoch=1-step=29.ckpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_10/events.out.tfevents.1620202997.DESKTOP-238TCFU.17024.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_10/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_11/checkpoints/epoch=1-step=29.ckpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_11/events.out.tfevents.1620203237.DESKTOP-238TCFU.16628.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_11/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_12/checkpoints/epoch=10-step=164.ckpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_12/events.out.tfevents.1620203540.DESKTOP-238TCFU.2836.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_12/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_13/checkpoints/epoch=8-step=134.ckpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_13/events.out.tfevents.1620206746.DESKTOP-238TCFU.13100.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_13/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_14/checkpoints/epoch=10-step=164.ckpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_14/events.out.tfevents.1620207766.DESKTOP-238TCFU.15396.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_14/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_3/events.out.tfevents.1620201055.DESKTOP-238TCFU.2352.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_3/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_4/events.out.tfevents.1620201069.DESKTOP-238TCFU.7980.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_4/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_5/events.out.tfevents.1620201145.DESKTOP-238TCFU.15140.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_5/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_6/events.out.tfevents.1620201203.DESKTOP-238TCFU.16152.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_6/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_7/checkpoints/epoch=0-step=14.ckpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_7/events.out.tfevents.1620201297.DESKTOP-238TCFU.15672.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_7/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_8/checkpoints/epoch=0-step=14.ckpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_8/events.out.tfevents.1620202216.DESKTOP-238TCFU.11832.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_8/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_9/checkpoints/epoch=0-step=14.ckpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_9/events.out.tfevents.1620202344.DESKTOP-238TCFU.16500.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_9/hparams.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_15/checkpoints/epoch=21-step=329.ckpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_15/events.out.tfevents.1620228392.DESKTOP-238TCFU.9864.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_15/hparams.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/.ipynb_checkpoints/N-BEATS-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/.ipynb_checkpoints/N-BEATS-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Data_to_PytorchForecasting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Data_to_PytorchForecasting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/N-BEATS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/N-BEATS.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lr_find_temp_model.ckpt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -405,13 +375,6 @@
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
     </task>
-    <task id="LOCAL-00023" summary="TESTS">
-      <created>1601887239391</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1601887239391</updated>
-    </task>
     <task id="LOCAL-00024" summary="WORKING AGAIN QM!!">
       <created>1601905372095</created>
       <option name="number" value="00024" />
@@ -748,7 +711,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620200922350</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="NBEATS ON DATA!">
+      <created>1620210370535</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1620210370535</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -912,18 +882,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py</url>
-          <line>58</line>
+          <line>57</line>
           <option name="timeStamp" value="292" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py</url>
-          <line>51</line>
+          <line>50</line>
           <option name="timeStamp" value="298" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="300" />
+          <line>19</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Data_to_PytorchForecasting.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="306" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
