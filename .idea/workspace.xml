@@ -19,8 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI OHLC_Manipulate REG AND CLASS">
-      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Data_to_PytorchForecasting.py" afterDir="false" />
+    <list default="true" id="6e678fe1-55d4-4846-a81d-cef3d6aeae35" name="Default" comment="BIGAI DF TO TIMESERIES">
+      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_0/events.out.tfevents.1620197378.DESKTOP-238TCFU.3960.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_0/hparams.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_1/events.out.tfevents.1620197971.DESKTOP-238TCFU.2904.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_1/hparams.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_2/checkpoints/epoch=10-step=164.ckpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_2/events.out.tfevents.1620199581.DESKTOP-238TCFU.3756.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lightning_logs/version_2/hparams.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/lr_find_temp_model.ckpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Data_to_PytorchForecasting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Data_to_PytorchForecasting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -370,13 +378,6 @@
       <workItem from="1606397089711" duration="1620000" />
       <workItem from="1606467977175" duration="2083000" />
     </task>
-    <task id="LOCAL-00021" summary="Refactor">
-      <created>1599069250804</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1599069250804</updated>
-    </task>
     <task id="LOCAL-00022" summary="Refactor">
       <created>1600953323479</created>
       <option name="number" value="00022" />
@@ -713,7 +714,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620125291558</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="BIGAI DF TO TIMESERIES">
+      <created>1620128283783</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1620128283783</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -746,7 +754,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="BIGAI COURSE DL1" />
     <MESSAGE value="QM FATDATA" />
     <MESSAGE value="BIGAI ACTIVATIONS FUNCTIONS" />
     <MESSAGE value="DATA GENERATED THROUGH 12 HOURS" />
@@ -771,7 +778,8 @@
     <MESSAGE value="BIGAI+QM WORKING AGAIN" />
     <MESSAGE value="BIGAI IMPORTS" />
     <MESSAGE value="BIGAI OHLC_Manipulate REG AND CLASS" />
-    <option name="LAST_COMMIT_MESSAGE" value="BIGAI OHLC_Manipulate REG AND CLASS" />
+    <MESSAGE value="BIGAI DF TO TIMESERIES" />
+    <option name="LAST_COMMIT_MESSAGE" value="BIGAI DF TO TIMESERIES" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -877,18 +885,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Oandzina.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="248" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Data_to_PytorchForecasting.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="266" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../BIGAI/ENGINE/DATALAKE/TIMESERIES/Data_to_PytorchForecasting.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="267" />
+          <line>40</line>
+          <option name="timeStamp" value="286" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
