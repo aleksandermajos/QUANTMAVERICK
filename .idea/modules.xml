@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../BIGAI/.idea/BIGAI.iml" filepath="$PROJECT_DIR$/../BIGAI/.idea/BIGAI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BIGAISCHOOL/.idea/BIGAISCHOOL.iml" filepath="$PROJECT_DIR$/../BIGAISCHOOL/.idea/BIGAISCHOOL.iml" />
       <module fileurl="file://$PROJECT_DIR$/../BIGBANGLANG/.idea/BIGBANGLANG.iml" filepath="$PROJECT_DIR$/../BIGBANGLANG/.idea/BIGBANGLANG.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/QUANTMAVERICK PROJECT.iml" filepath="$PROJECT_DIR$/.idea/QUANTMAVERICK PROJECT.iml" />
     </modules>
